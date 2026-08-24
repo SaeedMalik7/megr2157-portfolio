@@ -16,6 +16,22 @@ Evidence of reasoning - The Portfolio only shows the "chosen" outcome during the
 
 Professional tone - Seth's tone is up to the professional standard, his Portfolio is more of an advert of his robots. The writing style and inclusion of certain words/phrases indicates a more casual tone. One particular phrase of "Again, all CAD work is by yours truly", is not off the professional standard. I personally would not hand this Portfolio in to an employer as it lacks professional standard. 
 
+2. Nathan Hoong https://nhoong.github.io/index.html
+
+Navigability - After viewing Nathan Hoong's GitHub portfolio, all the information is a scroll away. The Portfolio opens up with a brief description about Nathan
+and his projects. The projects include links to a detailed pdf, which go into full details about the specific project. There are a few pages one can click on
+for information and there is contact information located at the bottom of the page. In Conclusion, any reader will be able to locate any specific asignment or
+piece of work in under 60 seconds.  
+
+Reproducibility - Yes, there is enough documented information that one will be able to replicate his design but there is only enough information for one product.  
+For the "Glaukos Senior Capstone Project", there is a link provided which opens up a 38 page pdf detailing the process. Although his other projects such as the
+"Butterfly valve throttle body" and "Shock top assembly", only a 3d model along with the projects objective and reasoning are provided. A reader can replicate
+only his Capstone Project as that is the only one that is sufficiently documented. 
+   
+Evidence of reasoning -
+   
+Professional tone - 
+
 ## Decide
 
 
