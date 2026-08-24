@@ -34,16 +34,21 @@ Professional tone - The tone and words/phrases used are up to standard. The font
 
 Product Analysis - Flat Head Screwdriver
 
-A. The Primary Function of a Flat Head Screwdriver is to assist in the loosening and tightening of fastener by applying rotational torque. The screwdriver transmits rotational torque from a user to a fastener, which in turn causes the fastener to rotate around its central axis. 
+**A.** The Primary Function of a Flat Head Screwdriver is to assist in the loosening and tightening of fastener by applying rotational torque. The screwdriver transmits rotational torque from a user to a fastener, which in turn causes the fastener to rotate around its central axis. 
 
-B. The governing equation is as follows:
+**B.** The governing equation is as follows:
 
 τ = rFsin(θ)
 
-This is the torque equation. 
-τ = (Tau) which is torque applied (N-m)
-r = 
+**This is the torque equation.**
+- **τ (Tau)** = Torque applied (N·m)
+- **r** = Perpendicular distance from screwdriver's axis to line of applied force (m)
+- **F** = Force applied by hand (N)
+- **θ** = Angle between applied force and radius which on most cases the angle applied is θ = 90
 
+The Screwdriver's shaft and handle are uniform rigid bodies, so there is negligible deformation in the screwdriver as torque is applied. 
+This assumption assumes that the tip of the screwdriver is properly seated in its slot so torque can be applied without slipping. 
+  
 ## Decide
 
 
