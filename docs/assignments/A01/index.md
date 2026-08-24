@@ -81,11 +81,13 @@ The tip is a flattened rectangular blade with a narrow width and thickness, whic
 Authors - Martin Strauch
 
 Alternative Solutions
+
 A Philips-Head screwdriver can complete the same task as Flat Head Screwdriver, although it ultimately depends on the hole of the fastener. As long as the hole of the fastener allows for the Philips-Head screwdriver to fit, it can accomplish the same task as the Flat Head Screwdriver. 
 A Torx Screwdriver can accomplish the same task as that of a Flat Head Screwdriver, although it still would depend on the hole of the fastener. 
 Both of these screwdrivers assist in transferring rotational torque from the users hand towards the fastener. The difference lies in the geometry of the interface between the tool and fastener. 
 
 Design Decision
+
 The patent mentions the use of two convex arcs on the tip of the screwdrivers blade. These minute convex arcs help increase the surface area between the tip and the fastener when being turned by the user, this increase in contact area leads to a higher torque being generated and spreads the force over more of the fastener. In theory this change helps increase torque while reducing slipping due to its twin convex arc design. 
 
 ## Decide
