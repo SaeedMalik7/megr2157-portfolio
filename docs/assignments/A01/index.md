@@ -75,7 +75,9 @@ The shaft is a long, narrow cylindrical piece of metal which connects the handle
 The tip is a flattened rectangular blade with a narrow width and thickness, which in turn allows it to fit in the slot of a slotted screw/bolt/fastener. The tip's thickness controls how securely it fits in a slot, while its width determines how much of the slot is engaged. The tip blade extends along the screwdrivers axis so the applied torque is transferred directly to the screw. 
 
 **D.**
+
 <a href="https://patents.google.com/patent/EP0512273A1/en">EP0512273A1</a>
+
 Authors - Martin Strauch
 
 Alternative Solutions
