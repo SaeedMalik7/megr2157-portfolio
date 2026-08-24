@@ -32,6 +32,18 @@ Evidence of reasoning - The 38 page pdf document relating to the Capstone Projec
    
 Professional tone - The tone and words/phrases used are up to standard. The font of the text in the "About Me" category was small, which made it hard to read. Apart from that nothing jumps out as being casual. Everything is written in a precise and descriptive manner. I would hand this document in to a potential employer as I believe the language is up to standard. 
 
+Product Analysis - Flat Head Screwdriver
+
+A. The Primary Function of a Flat Head Screwdriver is to assist in the loosening and tightening of fastener by applying rotational torque. The screwdriver transmits rotational torque from a user to a fastener, which in turn causes the fastener to rotate around its central axis. 
+
+B. The governing equation is as follows:
+
+τ = rFsin(θ)
+
+This is the torque equation. 
+τ = (Tau) which is torque applied (N-m)
+r = 
+
 ## Decide
 
 
