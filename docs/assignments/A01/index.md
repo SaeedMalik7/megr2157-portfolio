@@ -41,9 +41,13 @@ Product Analysis - Flat Head Screwdriver
 τ = rFsin(θ)
 
 **This is the torque equation.**
+
 - **τ (Tau)** = Torque applied (N·m)
+
 - **r** = Perpendicular distance from screwdriver's axis to line of applied force (m)
+
 - **F** = Force applied by hand (N)
+
 - **θ** = Angle between applied force and radius which on most cases the angle applied is θ = 90
 
 The Screwdriver's shaft and handle are uniform rigid bodies, so there is negligible deformation in the screwdriver as torque is applied. 
