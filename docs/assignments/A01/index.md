@@ -6,7 +6,7 @@ To Build a Professional Portfolio
 ## Analyze
 
 Task A Portfolio Analysis 
-1. Seth Schaffer https://sites.google.com/view/sethschafferportfolio/home
+1.<a href="https://sites.google.com/view/sethschafferportfolio/home">Seth Schaffer</a>
 
 **Navigability** - After viewing Seth Schaffer's portfolio on his Google Site, one can conclude that everything is laid out in an orderly fashion. The site opens up with an introduction about Seth and then is followed by media links about his combat robots. There are other pages that one can visit as well depending on what they want to know about Seth, some of which are: About me, Combat robots, Other projects and much more. After visiting this page, I can conclude that any reader will be able to locate any specific assignment or piece of work in under 60 seconds.
 
@@ -16,7 +16,7 @@ Task A Portfolio Analysis
 
 **Professional tone** - Seth's tone is up to the standard, his Portfolio is more of an advert of his robots. The writing style and inclusion of certain words/phrases indicates a more casual tone. One particular phrase of "Again, all CAD work is by yours truly", is not off the standard. I personally would not hand this Portfolio in to an employer as it lacks standard. 
 
-2. Nathan Hoong https://nhoong.github.io/index.html
+2. <a href="https://nhoong.github.io/index.html">Nathan Hoong</a>
 
 **Navigability** - After viewing Nathan Hoong's GitHub portfolio, all the information is a scroll away. The Portfolio opens up with a brief description about Nathan
 and his projects. The projects include links to a detailed pdf, which go into full details about the specific project. There are a few pages one can click on
@@ -95,7 +95,7 @@ The patent mentions the use of two convex arcs on the tip of the screwdrivers bl
 
 **1. Homepage Identity** - When a reader opens this Portfolio, they need to have a brief introduction on what portfolio this is. After reading the homepage the reader will be able to know that this is a Mechanical Engineering Portfolio which contains engineering assignments. All the asignments contain three key points which are Analyze, Decide and Communicate. Under the key assignments there should be a timeline which indicates what the owner of the portfolio is currently doing and will be doing in the future. All of these tasks are accomplished by explaining the key points on the homepage, along with providing a detailed yet brief timeline of the owners current state, regarding engineering. The image provided helps reinforce the idea, that this is a Mechanical Engineering portfolio. 
 
-**2. One Intentional Customization ** - I do not like the color light green at all, so I changed the color of the banner on the page from light green to blue. It is not a regular blue, it is Laguna Sega Blue from BMW, I had to add a new folder named "extra.css" where I added code of the custom color of Laguna Sega Blue. I was able to attain the hex for the color after some research and used it in the code. I made this change because I like this color and would like the color reflected on my portfolio. The functional reason is that light blue is also easier on the eyes compared to a bright green. It is a color that stands out way less visually as well. 
+**2. One Intentional Customization** - I do not like the color light green at all, so I changed the color of the banner on the page from light green to blue. It is not a regular blue, it is Laguna Sega Blue from BMW, I had to add a new folder named "extra.css" where I added code of the custom color of Laguna Sega Blue. I was able to attain the hex for the color after some research and used it in the code. I made this change because I like this color and would like the color reflected on my portfolio. The functional reason is that light blue is also easier on the eyes compared to a bright green. It is a color that stands out way less visually as well. 
 
 **3. My Documentation Standard** - I will document my engineering work and the specifics of my choices thoroughly on these assignments so the reader can understand why I made certain decisions in my design process 
 
