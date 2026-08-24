@@ -53,6 +53,7 @@ only his Capstone Project as that is the only one that is sufficiently documente
 The Screwdriver's shaft and handle are uniform rigid bodies, so there is negligible deformation in the screwdriver as torque is applied. 
 This assumption assumes that the tip of the screwdriver is properly seated in its slot so torque can be applied without slipping. 
 
+**C.**
 **1. Handle**
 
 ![Handle](../../screwhandle.jpeg)
@@ -72,6 +73,18 @@ The shaft is a long, narrow cylindrical piece of metal which connects the handle
   <img src="../../screwright.jpeg" width="45%">
 </p>
 The tip is a flattened rectangular blade with a narrow width and thickness, which in turn allows it to fit in the slot of a slotted screw/bolt/fastener. The tip's thickness controls how securely it fits in a slot, while its width determines how much of the slot is engaged. The tip blade extends along the screwdrivers axis so the applied torque is transferred directly to the screw. 
+
+**D.**
+<a href="https://patents.google.com/patent/EP0512273A1/en">EP0512273A1</a>
+Authors - Martin Strauch
+
+Alternative Solutions
+A Philips-Head screwdriver can complete the same task as Flat Head Screwdriver, although it ultimately depends on the hole of the fastener. As long as the hole of the fastener allows for the Philips-Head screwdriver to fit, it can accomplish the same task as the Flat Head Screwdriver. 
+A Torx Screwdriver can accomplish the same task as that of a Flat Head Screwdriver, although it still would depend on the hole of the fastener. 
+Both of these screwdrivers assist in transferring rotational torque from the users hand towards the fastener. The difference lies in the geometry of the interface between the tool and fastener. 
+
+Design Decision
+The patent mentions the use of two convex arcs on the tip of the screwdrivers blade. These minute convex arcs help increase the surface area between the tip and the fastener when being turned by the user, this increase in contact area leads to a higher torque being generated and spreads the force over more of the fastener. In theory this change helps increase torque while reducing slipping due to its twin convex arc design. 
 
 ## Decide
 
