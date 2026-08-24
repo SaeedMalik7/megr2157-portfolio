@@ -52,7 +52,21 @@ Product Analysis - Flat Head Screwdriver
 
 The Screwdriver's shaft and handle are uniform rigid bodies, so there is negligible deformation in the screwdriver as torque is applied. 
 This assumption assumes that the tip of the screwdriver is properly seated in its slot so torque can be applied without slipping. 
-  
+
+**1. Handle**
+
+![Handle](images/IMG_3069.jpeg)
+
+**2. Shaft**
+
+![Shaft](images/IMG_3070.jpeg)
+
+**3. Tip**
+
+<p align="center">
+  <img src="images/IMG_3071.jpeg" width="45%">
+  <img src="images/IMG_3072.jpeg" width="45%">
+</p>
 ## Decide
 
 
