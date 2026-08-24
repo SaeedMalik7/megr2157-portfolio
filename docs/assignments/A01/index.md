@@ -55,17 +55,17 @@ This assumption assumes that the tip of the screwdriver is properly seated in it
 
 **1. Handle**
 
-![Handle](../../../screwhandle.jpeg)
+![Handle](../../screwhandle.jpeg)
 
 **2. Shaft**
 
-![Shaft](../../../screwshaft.jpeg)
+![Shaft](../../screwshaft.jpeg)
 
 **3. Tip**
 
 <p align="center">
-  <img src="../../../screwleft.jpeg" width="45%">
-  <img src="../../../screwright.jpeg" width="45%">
+  <img src="../../screwleft.jpeg" width="45%">
+  <img src="../../screwright.jpeg" width="45%">
 </p>
 ## Decide
 
