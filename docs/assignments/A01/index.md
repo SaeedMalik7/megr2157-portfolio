@@ -57,9 +57,13 @@ This assumption assumes that the tip of the screwdriver is properly seated in it
 
 ![Handle](../../screwhandle.jpeg)
 
+The handle has a large cylindrical geometry that is elongated which provides a large radius so that a user's hand is able to comfortably apply force around the screwdrivers axis. The increased radius helps amplify the generated torque. The handles length provides sufficient surface area so that the user can comfortable use it. The enlarged handle diameter compared to the diameter of the shaft allows the user to generate greater torque. 
+
 **2. Shaft**
 
 ![Shaft](../../screwshaft.jpeg)
+
+The shaft is a long, narrow cylindrical piece of metal which connects the handle to the tip of the screwdriver. The shaft transmits rotational motion and torque along the axis. The shafts circular cross section provides torsional resistance while maintaining a small radial dimension in comparison to the handle. 
 
 **3. Tip**
 
@@ -67,6 +71,8 @@ This assumption assumes that the tip of the screwdriver is properly seated in it
   <img src="../../screwleft.jpeg" width="45%">
   <img src="../../screwright.jpeg" width="45%">
 </p>
+The tip is a flattened rectangular blade with a narrow width and thickness, which in turn allows it to fit in the slot of a slotted screw/bolt/fastener. The tip's thickness controls how securely it fits in a slot, while its width determines how much of the slot is engaged. The tip blade extends along the screwdrivers axis so the applied torque is transferred directly to the screw. 
+
 ## Decide
 
 
