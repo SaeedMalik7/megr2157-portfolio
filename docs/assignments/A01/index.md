@@ -55,11 +55,11 @@ This assumption assumes that the tip of the screwdriver is properly seated in it
 
 **1. Handle**
 
-![Handle](images/IMG_3069.jpeg)
+![Handle](IMG_3069.jpeg)
 
 **2. Shaft**
 
-![Shaft](images/IMG_3070.jpeg)
+![Shaft](IMG_3070.jpeg)
 
 **3. Tip**
 
