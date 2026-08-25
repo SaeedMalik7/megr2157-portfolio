@@ -17,7 +17,7 @@ Task A Portfolio Analysis
 
 **Professional tone** - Seth's tone is up to the standard, his Portfolio is more of an advert of his robots. The writing style and inclusion of certain words/phrases indicates a more casual tone. One particular phrase of "Again, all CAD work is by yours truly", is not off the standard. I personally would not hand this Portfolio in to an employer as it lacks standard. 
 
-2. <a href="https://nhoong.github.io/index.html">Nathan Hoong</a>
+2.<a href="https://nhoong.github.io/index.html">Nathan Hoong</a>
 
 **Navigability** - After viewing Nathan Hoong's GitHub portfolio, all the information is a scroll away. The Portfolio opens up with a brief description about Nathan
 and his projects. The projects include links to a detailed pdf, which go into full details about the specific project. There are a few pages one can click on
