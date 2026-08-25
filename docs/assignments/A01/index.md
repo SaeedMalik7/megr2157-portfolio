@@ -6,6 +6,7 @@ To Build a Professional Portfolio
 ## Analyze
 
 Task A Portfolio Analysis 
+
 1.<a href="https://sites.google.com/view/sethschafferportfolio/home">Seth Schaffer</a>
 
 **Navigability** - After viewing Seth Schaffer's portfolio on his Google Site, one can conclude that everything is laid out in an orderly fashion. The site opens up with an introduction about Seth and then is followed by media links about his combat robots. There are other pages that one can visit as well depending on what they want to know about Seth, some of which are: About me, Combat robots, Other projects and much more. After visiting this page, I can conclude that any reader will be able to locate any specific assignment or piece of work in under 60 seconds.
