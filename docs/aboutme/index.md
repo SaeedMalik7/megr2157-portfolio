@@ -1,2 +1,5 @@
 #About Me
 This is how to edit
+I am Saeed Malik, a student who at UNCC studying Mechanical Engineering with a focus in Motorsports. Ever since I have been a child, I have been into Automobiles. My passion for cars has only grown in tandem with my age. I am studying Mechanical Engineering with the hopes of working in the Automobile Industry one day. I would love to work on the Aerodynamics of an Automobile whether it is for an Original-Equipment-Manufacture or a professional race team. As I progress through the engineering program, I am accumulating certifications in different CAD design software's. I already have a CSWA for Solid works and I am actively working to get certified in Creo. 
+
+As an Engineer, I believe that the best solution to any given problem is a mixture of all the best elements from all the possible solutions put together. During the generating concepts stage of the design process, I believe that one can truly have a great solution if you can somehow take all of your ideas and put together the best individual parts of e
