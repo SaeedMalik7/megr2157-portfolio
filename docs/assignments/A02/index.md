@@ -40,3 +40,5 @@ Download SolidWorks CAD File
 <a href="https://github.com/SaeedMalik7/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/A2 Truss with pins.SLDPRT" download>
 Download SolidWorks CAD File
 </a>
+
+bro
