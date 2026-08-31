@@ -37,3 +37,6 @@ _Which geometry did you select, and why? This is your first open design choice i
 Download SolidWorks CAD File
 </a>
 
+<a href="https://github.com/SaeedMalik7/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/A2 Truss with pins.SLDPRT" download>
+Download SolidWorks CAD File
+</a>
