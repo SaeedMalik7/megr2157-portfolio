@@ -16,7 +16,7 @@
 - The cross sectional area of each element is to be identical.
 - The pins are to be identical to each other and each element is to have the same cross-sectional geometry.
 
-   ![Truss Design Layout](A02/Screenshot 2026-08-31 170502.png)
+  <img src="./screenshot.png" alt="Screenshot of my work" width="800">
 
 - Figure #1.) The force and geometric constraints of the truss design problem.
 - Choose a P between 20 - 30 kN. a = .4 m, b = .3 m. Point A is a pin and point B is a roller.
