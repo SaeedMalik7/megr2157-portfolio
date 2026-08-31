@@ -31,13 +31,16 @@ _Which geometry did you select, and why? This is your first open design choice i
 <img src="./A2PIC5.png" alt="Truss Layout" width="800">
 <img src="./A2PIC6.png" alt="Truss Layout" width="800">
 <img src="./A2PIC7.png" alt="Truss Layout" width="800">
-<a href="./A2 Truss.SLDPRT" download>Download Truss Report</a>
+
+-<a href="./A2 Truss.SLDPRT" download>Download Truss Report</a>
 <
-<a href="https://github.com/SaeedMalik7/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/A2 Truss.SLDPRT" download>
+ - <a href="https://github.com/SaeedMalik7/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/A2 Truss.SLDPRT" download>
 Download SolidWorks CAD File
 </a>
 
-<a href="https://github.com/SaeedMalik7/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/A2 Truss with pins.SLDPRT" download>
+
+
+- <a href="https://github.com/SaeedMalik7/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/A2 Truss with pins.SLDPRT" download>
 Download SolidWorks CAD File
 </a>
 
