@@ -24,4 +24,8 @@
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
 ## Communicate
-
+<img src="./A2PIC1.png" alt="Truss Layout" width="800">
+<img src="./A2PIC2.png" alt="Truss Layout" width="800">
+<img src="./A2PIC3.png" alt="Truss Layout" width="800">
+<img src="./A2PIC4.png" alt="Truss Layout" width="800">
+<img src="./A2PIC5.png" alt="Truss Layout" width="800">
