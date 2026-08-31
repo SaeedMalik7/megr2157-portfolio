@@ -32,6 +32,7 @@ _Which geometry did you select, and why? This is your first open design choice i
 <img src="./A2PIC6.png" alt="Truss Layout" width="800">
 <img src="./A2PIC7.png" alt="Truss Layout" width="800">
 
--<a href="./A2 Truss.SLDPRT" download>Download Truss Report</a>
+-<a href="./A2 Truss.SLDPRT" download>Truss CAD</a>
 
+-<a href="./A2 Truss with pins.SLDPRT" download>Truss with Pins CAD</a>
 
