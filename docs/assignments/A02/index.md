@@ -70,8 +70,17 @@ After drawing the beam, I used the Weldment feature to extrude my beam. After cl
 
 
 <img src="./A2PIC4.png" alt="Truss Layout" width="800">
+
+After making them into beams, I had some overlap issues with the BD beam clipping into other beams. So I used the trimextender feature to discard parts of the beam.
+
 <img src="./A2PIC5.png" alt="Truss Layout" width="800">
+
+This is the beam without the pin holes.
+
+
 <img src="./A2PIC6.png" alt="Truss Layout" width="800">
+
+I added the pin holes
 <img src="./A2PIC7.png" alt="Truss Layout" width="800">
 
 -<a href="./A2 Truss.SLDPRT" download>Truss CAD</a>
