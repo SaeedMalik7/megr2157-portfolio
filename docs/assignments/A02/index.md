@@ -53,12 +53,13 @@ After taking all of those values into account, I begun by generating another Fre
 <img src="./IMG_3164.jpeg" alt="Truss Layout" width="800">
 
 
-<img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
-
 ## Communicate
 ### CAD Process
-Below lie all the step by step pictures of constructing my beam in SolidWorks, first off are some necessary calculations for the CAD process.
+For this section, I had to construct my beam design in a CAD software, I chose SolidWorks since I have a CSWA in SolidWorks although it has been over a year since I last modeled in SolidWorks. I had to model the pins as cylinders with the correct cross sectional area and lengths. The first page below is contains the required values that I needed for this process. First up is the value of the area of the bars which came out to be 23 mm x 23 mm. Next up is just the Pin Area and minimum diameter values repeated. Lastly I calculated the angles of the BC member which should be the same as DA at 36.87 degrees. The BD angle came out to be 20.56 degrees from CD. 
+
 <img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
+
+
 <img src="./A2PIC1.png" alt="Truss Layout" width="800">
 <img src="./A2PIC2.png" alt="Truss Layout" width="800">
 <img src="./A2PIC3.png" alt="Truss Layout" width="800">
