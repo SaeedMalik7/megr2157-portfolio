@@ -25,7 +25,7 @@ _Which geometry did you select, and why? This is your first open design choice i
 
 ### Overall Truss Geometry
 
-The first five pictures are my notes on sketching my truss, labeling the Free body Diagrams in the joints, symbolically then numerically solving for all internal forces and lastly is a table to wrap up all the data gathered so far. For this project one of the objectives were to design a lightweight planar truss, so after some thought I decided upon my idea. It is a basic truss connecting all the joints but it has a slanted beam connecting joint B to joint D, the reason I chose this is because one beam connecting B to D would be lighter and less complicated to manufacture instead of using two beams at C and D to connect to the one point in the middle of beam BA. Those 2 extra beams would add more weight and cost more to manufacture, one beam instead is lighter to use and being lightweight is one of our main objectives. 
+The first five pictures are my notes on sketching my truss, labeling the Free body Diagrams in the joints, symbolically then numerically solving for all internal forces and lastly is a table to wrap up all the data gathered so far. For this project one of the objectives were to design a lightweight planar truss, so after some thought I decided upon my idea. It is a basic truss connecting all the joints but it has a slanted beam connecting joint B to joint D, the reason I chose this is because one beam connecting B to D would be lighter and less complicated to manufacture instead of using two beams at C and D to connect to the one point in the middle of beam BA. Those 2 extra beams would add more weight and cost more to manufacture, one beam instead is lighter to use and being lightweight is one of our main objectives. My selected p value was 25 kN.
 
 
 <img src="./IMG_3157.jpeg" alt="Truss Layout" width="800">
@@ -37,10 +37,21 @@ Above lies my internal forces table for my chosen beam, as you can see most of t
 
 ### Cross Sectional Area
 
-In the bottom half of the previous picture and the one right below, I am calculating the cross sectional area along with the approximate weight of my truss. To symbolically calculate the area I had to first pick the highest internal force in my truss which was 47.47 kn in truss BD, then I combined some force formulas and found the minimum area to be 0.8119 in^2. The internal force and area value seemed a little high but they are correct as instead of splitting the load of beam C and D into 2 beams, I used 1 beam to be lighter, so the beam had to carry a larger force, hence a large area as well. Lastly, you can see that I calculated the weight of my truss, which I got by adding up the length of all my beams (3.4544 m), converting that to inches (136 in) and multiplying that by the area to get the volume of 110.428 in^3. Lastly I multiplied the volume by the A500 steel density of 0.283 lb/in^3 to get 31.251 lb for my truss weight. 
+In the bottom half of the previous picture and the one right below, I am calculating the cross sectional area along with the approximate weight of my truss. To symbolically calculate the area I had to first pick the highest internal force in my truss which was 47.47 kN in truss BD, then I combined some force formulas and found the minimum area to be 0.8119 in^2. The internal force and area value seemed a little high but they are correct as instead of splitting the load of beam C and D into 2 beams, I used 1 beam to be lighter, so the beam had to carry a larger force, hence a large area as well. Lastly, you can see that I calculated the weight of my truss, which I got by adding up the length of all my beams (3.4544 m), converting that to inches (136 in) and multiplying that by the area to get the volume of 110.428 in^3. Lastly I multiplied the volume by the A500 steel density of 0.283 lb/in^3 to get 31.251 lb for my truss weight. 
 
 <img src="./IMG_3163.jpeg" alt="Truss Layout" width="800">
+
+### Pin Cross Sectional Area
+
+The page below contains my calculations of the required cross sectional area of pins to withstand the expected shear forces. For this asignment I was given the following values to use 
+- yeild shear strength 170 ksi
+- density 0.278 ib/in^3
+- safety factor 4
+- assume that elements that are in compression will not fail in buckling
+After taking all of those values into account, I begun by generating another Free body diagram of my pin with the largest load, which after some thoughtful consideration came to be joint D. Initially I did one using Joint C, that page is not uploaded and after I realized that I was incorrect as that Joint contained the largest external force of 25 kN. For this section I needed the largest reaction load which was occurring at joint D due to the upward 25 kN force along with the beams BD and AD. I first numerically solved for the area formula and got the value 0.2511 in^2. Next up to calculate the pin weight I needed the pin diameter first, which came out to be 0.566 in, then by using the same process as for the truss weight, the pin weight came out to be 0.349 lb. 
 <img src="./IMG_3164.jpeg" alt="Truss Layout" width="800">
+
+
 <img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
 
 ## Communicate
