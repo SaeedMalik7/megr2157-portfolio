@@ -25,7 +25,7 @@ _Which geometry did you select, and why? This is your first open design choice i
 
 ### Overall Truss Geometry
 
-The first five pictures are my notes on the sketching my truss, labeling the Free body Diagrams in the joints, symbolically then numerically solving for all internal forces and lastly is a table to wrap up all the data gathered so far. For this project one of the objectives were to design a lightweight planar truss, so after some thought I decided upon my idea. It is a basic truss connecting all the joints but it has a slanted beam connecting joint B to joint D, the reason I chose this is because one beam connecting B to D would be lighter and less complicated to manufacture instead of using two beams at C and D to connect to the one point in the middle of beam BA. Those 2 extra beams would add more weight and cost more to manufacture, one beam instead is lighter to use and being lightweight is one of our main objectives. 
+The first five pictures are my notes on sketching my truss, labeling the Free body Diagrams in the joints, symbolically then numerically solving for all internal forces and lastly is a table to wrap up all the data gathered so far. For this project one of the objectives were to design a lightweight planar truss, so after some thought I decided upon my idea. It is a basic truss connecting all the joints but it has a slanted beam connecting joint B to joint D, the reason I chose this is because one beam connecting B to D would be lighter and less complicated to manufacture instead of using two beams at C and D to connect to the one point in the middle of beam BA. Those 2 extra beams would add more weight and cost more to manufacture, one beam instead is lighter to use and being lightweight is one of our main objectives. 
 
 
 <img src="./IMG_3157.jpeg" alt="Truss Layout" width="800">
@@ -33,7 +33,7 @@ The first five pictures are my notes on the sketching my truss, labeling the Fre
 <img src="./IMG_3160.jpeg" alt="Truss Layout" width="800">
 <img src="./IMG_3161.jpeg" alt="Truss Layout" width="800">
 <img src="./IMG_3162.jpeg" alt="Truss Layout" width="800">
-Above lies my internal forces table for my chosen beam, as you can see most of the forces are in Tension with just a few being in compression. They all cancel out to make a static truss. The second half of this page pretends to our next category.
+Above lies my internal forces table for my chosen beam, as you can see most of the forces are in compression with just a few being in tension. They all cancel out to make a static truss. The second half of this page pretends to our next category.
 
 ### Cross Sectional Area
 
