@@ -44,9 +44,13 @@ In the bottom half of the previous picture and the one right below, I am calcula
 ### Pin Cross Sectional Area
 
 The page below contains my calculations of the required cross sectional area of pins to withstand the expected shear forces. For this asignment I was given the following values to use 
+
 - yeild shear strength 170 ksi
+
 - density 0.278 ib/in^3
+
 - safety factor 4
+
 - assume that elements that are in compression will not fail in buckling
 
 After taking all of those values into account, I begun by generating another Free body diagram of my pin with the largest load, which after some thoughtful consideration came to be joint D. Initially I did one using Joint C, that page is not uploaded and after I realized that I was incorrect as that Joint contained the largest external force of 25 kN. For this section I needed the largest reaction load which was occurring at joint D due to the upward 25 kN force along with the beams BD and AD. I first numerically solved for the area formula and got the value 0.2511 in^2. Next up to calculate the pin weight I needed the pin diameter first, which came out to be 0.566 in, then by using the same process as for the truss weight, the pin weight came out to be 0.349 lb. 
