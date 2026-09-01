@@ -33,6 +33,12 @@ The first five pictures are my notes on the sketching my truss, labeling the Fre
 <img src="./IMG_3160.jpeg" alt="Truss Layout" width="800">
 <img src="./IMG_3161.jpeg" alt="Truss Layout" width="800">
 <img src="./IMG_3162.jpeg" alt="Truss Layout" width="800">
+Above lies my internal forces table for my chosen beam, as you can see most of the forces are in Tension with just a few being in compression. They all cancel out to make a static truss. The second half of this page pretends to our next category.
+
+### Cross Sectional Area
+
+
+
 <img src="./IMG_3163.jpeg" alt="Truss Layout" width="800">
 <img src="./IMG_3164.jpeg" alt="Truss Layout" width="800">
 <img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
