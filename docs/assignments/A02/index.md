@@ -23,6 +23,15 @@
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
+<img src="./IMG_3157.jpeg" alt="Truss Layout" width="800">
+<img src="./IMG_3159.jpeg" alt="Truss Layout" width="800">
+<img src="./IMG_3160.jpeg" alt="Truss Layout" width="800">
+<img src="./IMG_3161.jpeg" alt="Truss Layout" width="800">
+<img src="./IMG_3162.jpeg" alt="Truss Layout" width="800">
+<img src="./IMG_3163.jpeg" alt="Truss Layout" width="800">
+<img src="./IMG_3164.jpeg" alt="Truss Layout" width="800">
+<img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
+
 ## Communicate
 <img src="./A2PIC1.png" alt="Truss Layout" width="800">
 <img src="./A2PIC2.png" alt="Truss Layout" width="800">
