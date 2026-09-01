@@ -60,11 +60,15 @@ For this section, I had to construct my beam design in a CAD software, I chose S
 <img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
 
 At first I drew the basic shape of the beam by using a midpoint line on the origin for the top BA beam which was 1200mm. Then I drew the the BC, CD, DA and BD beams in that respective order. I dimensioned the CD beam to 400 mm and set an equal constraint on the BC and DA beams and set them to 500 mm. Lastly I drew a beam from joint B to joint D and it was the right length and angle due to my previous dimensions. 
+
 <img src="./A2PIC1.png" alt="Truss Layout" width="800">
 
-After drawing the beam, I used the Weldment feature to extrude my beam. After clicking Weldment, then
+After drawing the beam, I used the Weldment feature to extrude my beam. After clicking Weldment, then Square Tube a menu pops up on the left hand side of the screen. In the menu I selected ISO, square tube, 20 x 20 x 2 size beams. My beam is a 23 x 23 and they did not have that specific size, the next one up was 30 x 30 x 2, this was still the most accurate way of design my beams that I was aware of, so I chose to continue this way, knowing that my final values will not be accurate as the beam is not the right size but it is the closest I could get it. After keeping that in mind, I added the extrusion to the beams, first on the outer beams and then sepratley on the one inside beam.
+
 <img src="./A2PIC2.png" alt="Truss Layout" width="800">
 <img src="./A2PIC3.png" alt="Truss Layout" width="800">
+
+
 <img src="./A2PIC4.png" alt="Truss Layout" width="800">
 <img src="./A2PIC5.png" alt="Truss Layout" width="800">
 <img src="./A2PIC6.png" alt="Truss Layout" width="800">
