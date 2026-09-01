@@ -97,6 +97,6 @@ Lastly I applied the Carbon Steel material to the beam as A500 steel was not ava
 
 ## Engineering Lesson
 
-After this beam exercise, I was able to refresh on multiple skills that I had previously learned but not yet used. The skills were CAD modeling and beam calculation which I learned from my time so far in being a Mechanical Engineering student. I also learned that the internal member forces can be greater than the applied external load as the members must resolve the forces through their angles and maintain equilibrium. This assignment greatly aided in brushing up my SolidWorks skills as well by modeling the beam. 
+After this beam exercise, I was able to refresh on multiple skills that I had previously learned but not yet used together. The skills were CAD modeling and beam calculation which I learned from my time so far in being a Mechanical Engineering student. I also learned that the internal member forces can be greater than the applied external load as the members must resolve the forces through their angles and maintain equilibrium. This assignment greatly aided in brushing up my SolidWorks skills as well by modeling the beam. 
 
 
