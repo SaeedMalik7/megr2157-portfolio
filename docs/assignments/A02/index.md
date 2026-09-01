@@ -59,8 +59,10 @@ For this section, I had to construct my beam design in a CAD software, I chose S
 
 <img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
 
-
+At first I drew the basic shape of the beam by using a midpoint line on the origin for the top BA beam which was 1200mm. Then I drew the the BC, CD, DA and BD beams in that respective order. I dimensioned the CD beam to 400 mm and set an equal constraint on the BC and DA beams and set them to 500 mm. Lastly I drew a beam from joint B to joint D and it was the right length and angle due to my previous dimensions. 
 <img src="./A2PIC1.png" alt="Truss Layout" width="800">
+
+After drawing the beam, I used the Weldment feature to extrude my beam. After clicking Weldment, then
 <img src="./A2PIC2.png" alt="Truss Layout" width="800">
 <img src="./A2PIC3.png" alt="Truss Layout" width="800">
 <img src="./A2PIC4.png" alt="Truss Layout" width="800">
