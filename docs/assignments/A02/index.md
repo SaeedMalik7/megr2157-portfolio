@@ -48,6 +48,7 @@ The page below contains my calculations of the required cross sectional area of 
 - density 0.278 ib/in^3
 - safety factor 4
 - assume that elements that are in compression will not fail in buckling
+
 After taking all of those values into account, I begun by generating another Free body diagram of my pin with the largest load, which after some thoughtful consideration came to be joint D. Initially I did one using Joint C, that page is not uploaded and after I realized that I was incorrect as that Joint contained the largest external force of 25 kN. For this section I needed the largest reaction load which was occurring at joint D due to the upward 25 kN force along with the beams BD and AD. I first numerically solved for the area formula and got the value 0.2511 in^2. Next up to calculate the pin weight I needed the pin diameter first, which came out to be 0.566 in, then by using the same process as for the truss weight, the pin weight came out to be 0.349 lb. 
 <img src="./IMG_3164.jpeg" alt="Truss Layout" width="800">
 
@@ -55,6 +56,9 @@ After taking all of those values into account, I begun by generating another Fre
 <img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
 
 ## Communicate
+### CAD Process
+Below lie all the step by step pictures of constructing my beam in SolidWorks, first off are some necessary calculations for the CAD process.
+<img src="./IMG_3165.jpeg" alt="Truss Layout" width="800">
 <img src="./A2PIC1.png" alt="Truss Layout" width="800">
 <img src="./A2PIC2.png" alt="Truss Layout" width="800">
 <img src="./A2PIC3.png" alt="Truss Layout" width="800">
