@@ -37,7 +37,7 @@ Above lies my internal forces table for my chosen beam, as you can see most of t
 
 ### Cross Sectional Area
 
-
+In the bottom half of the previous picture and the one right below, I am calculating the cross sectional area along with the approximate weight of my truss. To symbolically calculate the area I had to first pick the highest internal force in my truss which was 47.47 kn in truss BD, then I combined some force formulas and found the minimum area to be 0.8119 in^2. The internal force and area value seemed a little high but they are correct as instead of splitting the load of beam C and D into 2 beams, I used 1 beam to be lighter, so the beam had to carry a larger force, hence a large area as well. Lastly, you can see that I calculated the weight of my truss, which I got by adding up the length of all my beams (3.4544 m), converting that to inches (136 in) and multiplying that by the area to get the volume of 110.428 in^3. Lastly I multiplied the volume by the A500 steel density of 0.283 lb/in^3 to get 31.251 lb for my truss weight. 
 
 <img src="./IMG_3163.jpeg" alt="Truss Layout" width="800">
 <img src="./IMG_3164.jpeg" alt="Truss Layout" width="800">
