@@ -76,14 +76,23 @@ This is the beam without the pin holes.
 
 <img src="./A2PIC5.png" alt="Truss Layout" width="800">
 
-I added the pin holes
+I added the pin holes, by drawing circles on the joints and then dimension them to 14.376 mm which is 0.566 in. After sketching the holes, I used the extrude cut feature to remove them all.
 
 
 <img src="./A2PIC6.png" alt="Truss Layout" width="800">
+
+Lastly I applied the Carbon Steel material to the beam as A500 steel was not avaliable. In combination of having the wrong material and a smaller beam, the weight values seem of compared to the ones previously calculated. I believe that with the right material and beam values, the beam weight would have been accurate.
+
 
 <img src="./A2PIC7.png" alt="Truss Layout" width="800">
 
 -<a href="./A2 Truss.SLDPRT" download>Truss CAD</a>
 
 -<a href="./A2 Truss with pins.SLDPRT" download>Truss with Pins CAD</a>
+
+
+## Engineering Lesson
+
+After this beam exercise, I was able to refresh on multiple skills that I had previously learned but not yet used. The skills were CAD modeling and beam calculation which I learned from my time so far in being a Mechanical Engineering student. I also learned that the internal member forces can be greater than the applied external load as the members must resolve the forces through their angles and maintain equilibrium. This assignment greatly aided in brushing up my SolidWorks skills as well by modeling the beam. 
+
 
