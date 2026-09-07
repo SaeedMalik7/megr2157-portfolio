@@ -21,6 +21,8 @@ To design a bar which has a circular cross section where the values of the crite
 
 
 ## Decide
+<img src="./Deflection Map.png" alt="" width="800">
+<img src="./Von Missess.png" alt="" width="800">
 
 
 ## Communicate
