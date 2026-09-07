@@ -13,6 +13,12 @@ To design a bar which has a circular cross section where the values of the crite
 <img src="./Bar Requirements.png" alt="" width="800">
 ## Analyze
 
+<img src="./Equations.png" alt="" width="800">
+
+<img src="./Step 1.png" alt="" width="800">
+
+<img src="./Custom Material.png" alt="" width="800">
+
 
 ## Decide
 
