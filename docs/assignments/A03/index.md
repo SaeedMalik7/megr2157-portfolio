@@ -10,6 +10,7 @@
 
 ### Description:
 To design a bar which has a circular cross section where the values of the criteria given for the material, maximum deflection, and load. Determine the bar’s minimum geometry (ie.. length, diameter, and weight) through parametric design while under direct tension. Then verify the geometry through finite element analysis.
+<img src="./Bar Requirements" alt="Truss Layout" width="800">
 ## Analyze
 
 
