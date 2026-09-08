@@ -25,13 +25,14 @@ Next up these values were entered in the variable section of the CAD Model.
 <img src="./Equations.png" alt="" width="800">
 
 After inputting all the necessary values, I began to Generate the bar in CAD by using my variables and Parameters. First up was to draw a circle and assign it the diameter. 
+
 <img src="./Step 1.png" alt="" width="800">
 
 After drawing the circle, I extruded it to the given length variable. 
 
 <img src="./bar.png" alt="" width="800">
 
-Before I could progress any further and do the FEA analysis, I needed to add the Aluminum material to my bar. There were a lot of Aluminum options to pick from but none had the right parameters for the Youngs Modulus, so I created my own Aluminum. I copied the values of the one Aluminum with a very close Young's Modulus value and then edited the value in my Custom Part to be the required 10,000,000 
+Before I could progress any further and do the FEA analysis, I needed to add the Aluminum material to my bar. There were a lot of Aluminum options to pick from but none had the right parameters for the Youngs Modulus, so I created my own Aluminum. I copied the values of the one Aluminum with a very close Young's Modulus value and then edited the value in my Custom Part to be the required 10,000,000psi.
 
 
 <img src="./Custom Material.png" alt="" width="800">
