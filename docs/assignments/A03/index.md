@@ -53,7 +53,7 @@ After conducting the von Misses Stress, the stress came out to be 2.233 ksi.
 
 #### Max Stress Check 
 <img src="./image 2.png" alt="" width="800">
-I did a quick calculation to confirm that the Max Stress was lower than the Aluminum Stress Sy=40 and the safety factor
+I did a quick calculation to confirm that the max calculated stress was lower than the Aluminum stress Sy=40 and the safety factor came out at 19.6 
 
 ## Communicate
 ### Design Reflection
