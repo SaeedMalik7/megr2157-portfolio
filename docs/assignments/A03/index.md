@@ -16,11 +16,13 @@ To design a bar which has a circular cross section where the values of the crite
 <img src="./Equations.png" alt="" width="800">
 
 <img src="./Step 1.png" alt="" width="800">
+<img src="./bar.png" alt="" width="800">
 
 <img src="./Custom Material.png" alt="" width="800">
 
 
 ## Decide
+<img src="./Bar Load.png" alt="" width="800">
 <img src="./Deflection Map.png" alt="" width="800">
 <img src="./Von Misses.png" alt="" width="800">
 
