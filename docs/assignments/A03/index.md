@@ -64,7 +64,7 @@ The calculated deflection value was 0.009in and the FEA deflection value was 0.0
 #### Pin Hole
 
 ### Lessons Learned 
-
+I learned how do conduct an FEW simulation on CAD, I have never done one before. I had used an excel in past situations for Beam design but never a CAD simulation. So that whole process was new to me and I enjoyed it, as I learned how to do something new with CAD. It's always good when you can find out more features on a program that you like. I spent roughly around four and a half hours on this assignment, majority of the time came from writing on my website, as I was just going blank on how I wanted to describ my process. 
 ### CAD Link
 -<a href="./Beam.SLDPRT" download>Truss Beam</a>
 
