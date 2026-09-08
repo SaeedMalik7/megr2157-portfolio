@@ -45,13 +45,15 @@ Before I could conduct an FEA, I had to correctly apply the fixed load to one en
 #### Deflection Map
 <img src="./Deflection Map.png" alt="" width="800">
 
-After conducting 
+After conducting the Deflection Map, you can see that my Max Deflection came out to 0.009016 in which is slightly above the calculated value of 0.009 in. 
 #### von Misses Stress Map
 <img src="./Von Misses.png" alt="" width="800">
-
+After conducting the von Misses Stress, the 
 #### Max Stress Check 
 <img src="./image 2.png" alt="" width="800">
 
 
 ## Communicate
+### Design Reflection
+### Lessons Learned 
 
