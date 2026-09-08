@@ -19,11 +19,15 @@ The first step in designing a bar was to pick between the direct applied loads o
 <img src="./image 1.png" alt="" width="800">
 
 Next up these values were entered in the variable section of the CAD Model. 
-- F is the applied Force
-- A
-- 
+- F is the chose applied Force value
+- E is the chosen Young's Modulus value
+
 <img src="./Equations.png" alt="" width="800">
+
+After inputting all the necessary values, I began to Generate the bar in CAD by using my variables and Parameters. First up was to draw a circle and assign it the diameter. 
 <img src="./Step 1.png" alt="" width="800">
+
+After drawing the circle, I extruded it to the given length variable. 
 <img src="./bar.png" alt="" width="800">
 
 <img src="./Custom Material.png" alt="" width="800">
