@@ -57,5 +57,9 @@ I did a quick calculation to confirm that the max calculated stress was lower th
 
 ## Communicate
 ### Design Reflection
+<img src="./image 3.png" alt="" width="800">
+
+The calculated deflection value was 0.009in and the FEA deflection value was 0.009016in. The percent difference comes out to 0.178%. This is a very minimal percent difference and this amount can be totally avoided by going with a slightly smaller bar to ensure that the stress stays under the max deflection amount. In all this minimal difference does not cause any concern. This minimal percent difference shows the harmony or almost harmony between the analytical and FEA stress results. The analytical equation describes a bar under uniform axial tension while the FEA accounts for actual constraints and numerical models. Both results in this case are consistent but the FEA provides a more detailed representation. 
+
 ### Lessons Learned 
 
