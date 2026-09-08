@@ -49,11 +49,11 @@ After conducting the Deflection Map, you can see that my Max Deflection came out
 
 #### von Misses Stress Map
 <img src="./Von Misses.png" alt="" width="800">
-After conducting the von Misses Stress, the 
+After conducting the von Misses Stress, the stress came out to be 2.233 ksi. 
 
 #### Max Stress Check 
 <img src="./image 2.png" alt="" width="800">
-
+I did a quick calculation to confirm that the Max Stress was lower than the Aluminum Stress Sy=40 and the safety factor
 
 ## Communicate
 ### Design Reflection
