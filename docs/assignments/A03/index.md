@@ -66,5 +66,6 @@ The calculated deflection value was 0.009in and the FEA deflection value was 0.0
 ### Lessons Learned 
 
 ### CAD Link
+-<a href="./Beam.SLDPRT" download>Truss Beam</a>
 
 
