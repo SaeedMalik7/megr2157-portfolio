@@ -14,8 +14,10 @@ To design a bar which has a circular cross section where the values of the crite
 ## Analyze
 ### Parametric Design
 
-The first step in designing a bar was to pick between the direct applied loads of 300 lbg < F < 500 lbf. The other given choice was to pick between 8.5 to 11.5 x10^6 psi for the Youngs Modulus for our Aluminum Bar. Below are the chose values for this specific bar along with some given values. 
+The first step in designing a bar was to pick between the direct applied loads of 300 lbf < F < 500 lbf. The other given choice was to pick between 8.5 to 11.5 x10^6 psi for the Youngs Modulus for our Aluminum Bar. Below are the chose values for this specific bar along with some given values. 
+
 <img src="./image 1.png" alt="" width="800">
+
 <img src="./Equations.png" alt="" width="800">
 <img src="./Step 1.png" alt="" width="800">
 <img src="./bar.png" alt="" width="800">
