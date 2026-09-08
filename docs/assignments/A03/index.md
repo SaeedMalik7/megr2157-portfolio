@@ -45,6 +45,7 @@ Before I could conduct an FEA, I had to correctly apply the fixed load to one en
 #### Deflection Map
 <img src="./Deflection Map.png" alt="" width="800">
 
+After conducting 
 #### von Misses Stress Map
 <img src="./Von Misses.png" alt="" width="800">
 
