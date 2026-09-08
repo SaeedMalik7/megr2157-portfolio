@@ -14,11 +14,8 @@ To design a bar which has a circular cross section where the values of the crite
 ## Analyze
 
 <img src="./Equations.png" alt="" width="800">
-<iframe
-  src="../assets/CamScanner 9-7-26 20.18.pdf#page=1"
-  width="100%"
-  height="800px">
-</iframe>
+<img src="./image 1.png" alt="" width="800">
+
 <img src="./Step 1.png" alt="" width="800">
 <img src="./bar.png" alt="" width="800">
 
