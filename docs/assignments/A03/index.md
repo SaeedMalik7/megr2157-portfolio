@@ -32,16 +32,22 @@ After drawing the circle, I extruded it to the given length variable.
 
 <img src="./bar.png" alt="" width="800">
 
-Before I could progress any further and do the FEA analysis, I needed to add the Aluminum material to my bar. There were a lot of Aluminum options to pick from but none had the right parameters for the Youngs Modulus, so I created my own Aluminum. I copied the values of the one Aluminum with a very close Young's Modulus value and then edited the value in my Custom Part to be the required 10,000,000psi.
-
+Before I could progress any further and do the FEA analysis, I needed to add the Aluminum material to my bar. There were a lot of Aluminum options to pick from but none had the right parameters for the Youngs Modulus, so I created my own Aluminum. I copied the values of the one Aluminum with a very close Young's Modulus value and then edited the value in my Custom Materials to be the required 10,000,000psi.
 
 <img src="./Custom Material.png" alt="" width="800">
 
-
 ## Decide
+### FEA
+Before I could conduct an FEA, I had to correctly apply the fixed load to one end of the bar and a pulling force of 400 N to the other end of the bar. 
+
 <img src="./Bar Load.png" alt="" width="800">
+
+#### Deflection Map
 <img src="./Deflection Map.png" alt="" width="800">
+#### von Mises Stress Map
 <img src="./Von Misses.png" alt="" width="800">
+#### Max Stress Check 
+<img src="./image 2.png" alt="" width="800">
 
 
 ## Communicate
