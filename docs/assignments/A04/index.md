@@ -11,10 +11,12 @@ Figure 1: Shows motor, the rigid wall and the force received on the shaft of the
 <img src="./Appendix B.png" alt="" width="800">
 
 ## Analyze
-
+### Feature 1
+### Feature 2
 
 ## Decide
-
+### Paper Sketch
+### CAD Model
 
 ## Communicate
 
