@@ -31,11 +31,16 @@ For Feature 1, first up is the Free-Body-Diagram with the P included. Then it is
 
 On this page, first the moment value was calculated. Next up using the derived max stress equation done in class, the numeric equation was modeled. Next up the numeric height equation was modeled. After both of the equations were modeled, the numerically value was found by plugging in the numbers. The stress came out to 11.1mm and the deflection height came out to be 18.7mm. 
 
-### Feature 2
 <img width="702" height="353" alt="image" src="https://github.com/user-attachments/assets/cafbf799-1639-4ddd-aff6-fe0c2bafca8e" />
 
-For Feature 2, the specific feature 2 Free-Body-Diagram was drawn. Some of the known values were mentioned again like the Height, base and Moment. The Modulus of Elasticity, Force value and max deflection value were not mentioned again as they are assumed to be carried over to this feature as well. The unknown values are the height deflection and height stress. 
+A final calculation was done to check that the actual safety factor was greater than the ones of the given. This was done to make sure the deflection was below the given max deflection.
+
+### Feature 2
+
 <img width="812" height="715" alt="image" src="https://github.com/user-attachments/assets/7fe08176-42cd-47d8-9cde-80948308edf5" />
+
+For Feature 2, the specific feature 2 Free-Body-Diagram was drawn. Some of the known values were mentioned again like the Height, base and Moment. The Modulus of Elasticity, Force value and max deflection value were not mentioned again as they are assumed to be carried over to this feature as well. The unknown values are the height deflection and height stress. 
+
 <img width="799" height="261" alt="image" src="https://github.com/user-attachments/assets/65397e33-b00f-436a-9254-dac55d0a19ba" />
 
 ## Decide
