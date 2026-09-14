@@ -13,6 +13,7 @@ Figure 1: Shows motor, the rigid wall and the force received on the shaft of the
 ## Analyze
 <img width="793" height="571" alt="image" src="https://github.com/user-attachments/assets/eca882e0-c726-41ae-aafd-17cf4e0ae47d" />
 
+First up, I just gathered some known information given from the prompt. The given information contains; Motor Inforamtion, Ch
 ### Feature 1
 <img width="764" height="545" alt="image" src="https://github.com/user-attachments/assets/e6624b6d-c045-44c0-9ea1-869907cd2159" />
 <img width="797" height="1054" alt="image" src="https://github.com/user-attachments/assets/0454e6d1-950d-42e5-9406-5b43f59b7e6e" />
