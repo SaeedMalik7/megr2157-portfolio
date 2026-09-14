@@ -14,6 +14,7 @@ Figure 1: Shows motor, the rigid wall and the force received on the shaft of the
 <img width="793" height="571" alt="image" src="https://github.com/user-attachments/assets/eca882e0-c726-41ae-aafd-17cf4e0ae47d" />
 
 First up, I just gathered some known information given from the prompt. The following information was recorded;
+
 - Motor Information and Torque
 - Chosen Material of ABS with E = 1.99 GPa
 - Safety Factor of 3
@@ -21,9 +22,14 @@ First up, I just gathered some known information given from the prompt. The foll
 - Max Stress allowed calculation of 14.93 MPA
 - Total lenght of 54.6m
   
-### Feature 
+### Feature 1
 <img width="764" height="545" alt="image" src="https://github.com/user-attachments/assets/e6624b6d-c045-44c0-9ea1-869907cd2159" />
+
+For Feature 1, first up is the Free-Body-Diagram with the P included. Then it is a summary of all the known and unknown values gathered so far.
+
 <img width="797" height="1054" alt="image" src="https://github.com/user-attachments/assets/0454e6d1-950d-42e5-9406-5b43f59b7e6e" />
+
+On this page, first the moment value was calculated. Next up using the derived max stress equation done in class, the numeric equation was modeled. Next up the numeric height equation was modeled. After both of the equations were modeled, the numerically value was found by plugging in the numbers. The stress came out to 11.1mm and the deflection height came out to be 18.7mm. 
 
 ### Feature 2
 <img width="702" height="353" alt="image" src="https://github.com/user-attachments/assets/cafbf799-1639-4ddd-aff6-fe0c2bafca8e" />
