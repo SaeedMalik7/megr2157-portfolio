@@ -12,6 +12,7 @@ Figure 1: Shows motor, the rigid wall and the force received on the shaft of the
 
 ## Analyze
 ### Feature 1
+<iframe src="./CamScanner 9-14-26 16.39.pdf#page=1" width="800" height="1000" style="border: none;"></iframe>
 ### Feature 2
 
 ## Decide
