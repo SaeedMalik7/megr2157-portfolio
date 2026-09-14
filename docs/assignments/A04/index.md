@@ -18,5 +18,13 @@ Figure 1: Shows motor, the rigid wall and the force received on the shaft of the
 ### Paper Sketch
 ### CAD Model
 
+<img src="./Equations.png" alt="" width="800">
+<img src="./Pic1.png" alt="" width="800">
+<img src="./Pic 2.png" alt="" width="800">
+<img src="./Pic 3.png" alt="" width="800">
+<img src="./Pic 4.png" alt="" width="800">
+<img src="./Final.png" alt="" width="800">
+
+
 ## Communicate
 
