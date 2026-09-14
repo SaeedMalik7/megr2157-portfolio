@@ -51,10 +51,31 @@ For Feature 2, the specific feature 2 Free-Body-Diagram was drawn. Some of the k
 ### CAD Model
 
 <img src="./Equations.png" alt="" width="800">
+
+Before building the CAD Model, I added the following variables;
+
+- Feature 1 Height
+- Feature 1 Lenght
+- Feature 2 Height
+- Feature 2 Lenght
+- Mini Circle Diameters
+- Extrusion depth
+
 <img src="./Pic1.png" alt="" width="800">
+
+This first image is just the creation of outline of the mount, this includes drawing feature 1 and feature 2 together as one part. Then extruding it to the variable value.
+
 <img src="./Pic 2.png" alt="" width="800">
+
+The next image is the creation of the hole to allow the mount to sit in. It is a 18 mm diameter hole matching with the machine size and it is placed in the middle of feature 1 length and extrusion values. The hole is extruded 2mm into the the top of feature 1.
+
 <img src="./Pic 3.png" alt="" width="800">
+
+After drawing a 22mm diameter construction hole, I drew one mini circle and used the circular sketch pattern to make the additional holes. Then I made the hole for the motor itself and extrude cut all the holes. 
+
 <img src="./Pic 4.png" alt="" width="800">
+
+Lastly I had to create the clearance holes for the shafts and bolts. The size of the holes was 3.4mm. I made one hole and use the horizontal and vertical constraints to line up the other holes. The dimensions in between the holes were calculated by dividing the extruded length in half. The holes were extruded all the way through.
 <img src="./Final.png" alt="" width="800">
 
 
