@@ -48,6 +48,7 @@ After both equations are modeled, I plugged the numbers in. The stress stayed th
 ## Decide
 ### Paper Sketch
 <img src="./sketchanno.pdf" alt="" width="800">
+
 <img width="957" height="686" alt="image" src="https://github.com/user-attachments/assets/1cb71782-7839-4ac6-999b-3fc266f169d2" />
 
 ### CAD Model
