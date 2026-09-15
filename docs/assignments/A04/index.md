@@ -50,7 +50,7 @@ After both equations are modeled, I plugged the numbers in. The stress stayed th
 
 After calculating all the dimensions, I made a preview isometric sketch of the model. This model has the correct dimensions that will be used in the CAD Model as well. 
 
-<img src="./sketchanno.pdf" alt="" width="800">
+<img width="1332" height="857" alt="image" src="https://github.com/user-attachments/assets/7bd31a72-9d22-41ff-aa06-93e24b831d34" />
 
 ### CAD Model
 
