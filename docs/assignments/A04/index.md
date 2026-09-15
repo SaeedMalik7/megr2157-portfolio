@@ -80,7 +80,7 @@ After drawing a 22mm diameter construction hole, I drew one mini circle and used
 Lastly I had to create the clearance holes for the shafts and bolts. The size of the holes was 3.4mm. I made one hole and use the horizontal and vertical constraints to line up the other holes. The dimensions in between the holes were calculated by dividing the extruded length in half. The holes were extruded all the way through.
 <img src="./Final.png" alt="" width="800">
 
-
+Above is the image of the finished Model.
 ## Communicate
 Below is the link for the CAD Model.
 -<a href="./Motor Mount 2.SLDPRT" download>Motor Mount</a>
