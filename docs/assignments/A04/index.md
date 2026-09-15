@@ -47,9 +47,9 @@ For Feature 2, the specific feature 2 Free-Body-Diagram was drawn. Some of the k
 After both equations are modeled, I plugged the numbers in. The stress stayed the same as 11.1mm and deflection was 20.19mm.
 ## Decide
 ### Paper Sketch
-<img src="./sketchanno.pdf" alt="" width="800">
 
-<img width="957" height="686" alt="image" src="https://github.com/user-attachments/assets/1cb71782-7839-4ac6-999b-3fc266f169d2" />
+After calculating all the dimensions, I made a preview isometric sketch of the model. This model has the correct dimensions that will be used in the CAD Model as well. 
+<img src="./sketchanno.pdf" alt="" width="800">
 
 ### CAD Model
 
