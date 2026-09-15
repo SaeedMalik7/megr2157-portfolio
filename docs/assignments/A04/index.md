@@ -44,6 +44,7 @@ For Feature 2, the specific feature 2 Free-Body-Diagram was drawn. Some of the k
 
 <img width="799" height="261" alt="image" src="https://github.com/user-attachments/assets/65397e33-b00f-436a-9254-dac55d0a19ba" />
 
+After both equations are modeled, I plugged the numbers in. The stress stayed the same as 11.1mm and deflection was 20.19mm.
 ## Decide
 ### Paper Sketch
 <img width="655" height="521" alt="image" src="https://github.com/user-attachments/assets/8a41445a-9da2-491e-ae65-6d7ed044d83c" />
