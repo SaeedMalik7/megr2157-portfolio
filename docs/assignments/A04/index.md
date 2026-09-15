@@ -82,4 +82,6 @@ Lastly I had to create the clearance holes for the shafts and bolts. The size of
 
 
 ## Communicate
+Below is the link for the CAD Model.
+-<a href="./Motor Mount 2.SLDPRT" download>Truss Beam</a>
 
