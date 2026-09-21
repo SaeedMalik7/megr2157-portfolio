@@ -26,8 +26,8 @@ Note: If the bracket is designed symmetrically a lot of work would be cut.
 <img width="727" height="735" alt="image" src="https://github.com/user-attachments/assets/f824707c-9866-4e53-b51e-b21d71c2bc7b" />
 <img width="672" height="737" alt="image" src="https://github.com/user-attachments/assets/4ff975af-3ed0-460a-bd73-08922a84b7e5" />
 <img width="711" height="872" alt="image" src="https://github.com/user-attachments/assets/c171bd8d-0f6a-4d2e-bc64-2b9dde3d0df4" />
-<img width="722" height="861" alt="image" src="https://github.com/user-attachments/assets/a0da56ab-3bd2-4cdc-bf65-00d38fa4feec" />
 <img width="730" height="782" alt="image" src="https://github.com/user-attachments/assets/c76dc0e3-d33b-4f5e-8df9-5f7d1c63ee65" />
+<img width="722" height="861" alt="image" src="https://github.com/user-attachments/assets/a0da56ab-3bd2-4cdc-bf65-00d38fa4feec" />
 
 ### Calculating Dimensions from Stifness Analysis
 
