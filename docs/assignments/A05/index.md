@@ -19,6 +19,7 @@ Note: If the bracket is designed symmetrically a lot of work would be cut.
 
 ## Analyze
 <img width="727" height="401" alt="image" src="https://github.com/user-attachments/assets/d1433fb5-565a-4157-ac61-a1c72b9819bf" />
+
 Before beginning on this project, I had to select my values from the given objectives. I chose to go with the highest force value of 800 lbf and I chose A36 steel as it is available in SolidWorks.
 
 ### Calculating Dimensions from Stress Analysis
@@ -44,11 +45,23 @@ Thickness and Height are interchangable values for most cases
 
 ### Calculating Dimensions from Stifness Analysis
 
+For the stiffness analysis, the same known values, unknown values, assumptions, free body diagrams, nominal and algebraic solutions were required for all features. The known values were mostly the same for all features, they included the force value, safety factor, yield strength and max deflection. The unknown was always the same as we were looking for dimension of the minimum feature whether it was the height, length or width. The assumptions were mostly the same as well. The free body diagrams differed for all the features but were the same as the one used in the stress calculations. The point behind conducting the stiffness analysis was to find the max value between stiffness and stress to see which value the bracket would be governed by. All the minimum stiffness values were lower than the stress values, meaning the stress values governed the bracket. 
+
 <img width="781" height="801" alt="image" src="https://github.com/user-attachments/assets/87c6ef70-6c00-4f59-b18b-ed472d80fa49" />
 <img width="745" height="593" alt="image" src="https://github.com/user-attachments/assets/aedcca0e-d71d-44c8-9e68-43bf24035e81" />
 <img width="777" height="668" alt="image" src="https://github.com/user-attachments/assets/ccb581de-5b4e-499c-918a-e9d2f70fa7bb" />
 <img width="830" height="691" alt="image" src="https://github.com/user-attachments/assets/9c8b8640-8e26-4cea-9721-2f937521469a" />
 <img width="853" height="901" alt="image" src="https://github.com/user-attachments/assets/a7bfbdcf-9129-46f6-a823-247d0ee39a63" />
+
+Below are the following feature value calculations: 
+
+- Feature A 1.00in Length x 0.523in Diameter
+- Feature B 0.0091in thickness
+- Feature C 0.131in height
+- Feature D 0.263in thickness
+- Feature E 0.356in thickness
+
+Thickness and Height are interchangable values for most cases
 
 ## Decide
 ### Multiview Sketches
