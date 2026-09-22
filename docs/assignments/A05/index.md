@@ -65,6 +65,8 @@ Thickness and Height are interchangable values for most cases
 
 ## Decide
 ### Multiview Sketches
+Below are two Multiview sketches using the calculated feature values.
+
 <img width="881" height="837" alt="image" src="https://github.com/user-attachments/assets/c75d8077-9358-4e94-b3b0-1e20e9b29b38" />
 <img width="832" height="705" alt="image" src="https://github.com/user-attachments/assets/e1e582ab-1c67-42b2-aec8-6a8cf61c300c" />
 
@@ -73,3 +75,6 @@ Thickness and Height are interchangable values for most cases
 The CAD Model for this assignment, will be available on the A6 assignment page.
 ## Communicate
 ### Lessons Learned
+
+The governing failure mode for all five features was the stress values. All the stress values were higher for all features A-E, meaning that the strength requirement was more restive in this case. Feature E required 0.936in from the stress analysis while the stiffness only needed 0.356in. That is 0.580in difference and this was the case for all of the features. To my current knowledge no errors have occurred during this design process, a propagation method I used was when I carried the reaction force from Feature A into the axial load of Feature B. I checked the reactions using symmetry and equilibrium and at each feature before using the applied loads for the features, this helped prevent any errors. I assumed the length to be 1.00in. This plays a big role in the whole calculations for stress and stiffens, as this number is prevalent in both formulas for both features. I assumed the length as the length had to be greater than 3/4in and 1in was assumed, if the actual length is longer than the required cross sections would increase and if it is shorter they would decrease. I spent around 2 days working on this assignment. 
+
