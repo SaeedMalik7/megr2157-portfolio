@@ -19,8 +19,11 @@ Note: If the bracket is designed symmetrically a lot of work would be cut.
 
 ## Analyze
 <img width="727" height="401" alt="image" src="https://github.com/user-attachments/assets/d1433fb5-565a-4157-ac61-a1c72b9819bf" />
+Before beginning on this project, I had to select my values from the given objectives. I chose to go with the highest force value of 800 lbf and I chose A36 steel as it is available in SolidWorks.
 
 ### Calculating Dimensions from Stress Analysis
+
+First up was the stress analysis calculations for Features A-E. All the features required the known values, unknown values, assumptions, free body diagrams, nominal and algebraic solutions. The known values were mostly the same for all features, they included the force value, safety factor, yield strength and max deflection. The unknown was always the same as we were looking for dimension of the feature whether it was the height, length or width. The assumptions were mostly the same as well. The free body diagrams differed for all the features. 
 
 <img width="723" height="512" alt="image" src="https://github.com/user-attachments/assets/0cce8757-8ae8-441c-b3cc-99de0cdabb1e" />
 <img width="727" height="735" alt="image" src="https://github.com/user-attachments/assets/f824707c-9866-4e53-b51e-b21d71c2bc7b" />
@@ -28,6 +31,16 @@ Note: If the bracket is designed symmetrically a lot of work would be cut.
 <img width="711" height="872" alt="image" src="https://github.com/user-attachments/assets/c171bd8d-0f6a-4d2e-bc64-2b9dde3d0df4" />
 <img width="730" height="782" alt="image" src="https://github.com/user-attachments/assets/c76dc0e3-d33b-4f5e-8df9-5f7d1c63ee65" />
 <img width="722" height="861" alt="image" src="https://github.com/user-attachments/assets/a0da56ab-3bd2-4cdc-bf65-00d38fa4feec" />
+
+Below are the following feature value calculations: 
+
+- Feature A 1.00in Length x 1.22in Diameter
+- Feature B 0.146in thickness
+- Feature C 0.468in height
+- Feature D 0.663in thickness
+- Feature E 0.936in thickness
+
+Thickness and Height are interchangable values for most cases
 
 ### Calculating Dimensions from Stifness Analysis
 
