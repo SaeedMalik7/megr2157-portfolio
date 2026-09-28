@@ -20,7 +20,11 @@ Next up was drawing feature B on the back end of feature A. I drew the feature a
 
 Before I could begin making the last features, I made a rectangle block and extruded it to the surface of feature A. The plan is to extrude cut the rest of the features from this rectangle block.
 <img width="1615" height="876" alt="image" src="https://github.com/user-attachments/assets/6856e0d3-c401-4507-84cb-2b5a8f294691" />
+
+I extrude cut features C, D and E from the rectangular block. The dimensions were taken from the variables listed prior. After drawing the shape, I extrude cut the features all the way through.
 <img width="1743" height="877" alt="image" src="https://github.com/user-attachments/assets/81f9b6e3-6842-4331-a42a-206bcee8e133" />
+
+This is the final isometric image of the model.
 <img width="705" height="766" alt="image" src="https://github.com/user-attachments/assets/5d75c4cf-422b-4cd7-8cc9-e4d9de5c9853" />
 
 
