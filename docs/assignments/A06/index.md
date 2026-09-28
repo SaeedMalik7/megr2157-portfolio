@@ -29,6 +29,9 @@ This is the final isometric image of the model.
 
 
 ### Drawing
+
+A third angle projection drawing was made of the previously designed CAD model. It includes fully dimensioned Multiview drawings, it has a front view, a top view, a section view and an isometric view. The tables summaries important information about the model. A tolerance value table was added, along with tolerance values given to specific dimension values. 
+
 <img width="1088" height="840" alt="image" src="https://github.com/user-attachments/assets/b7df077b-7e85-4b00-ab0f-ffe71f4f4a4d" />
 
 ## Decide
