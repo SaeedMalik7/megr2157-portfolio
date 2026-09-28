@@ -43,3 +43,7 @@ Below is the link for the CAD Model.
 
 ## Communicate
 ### Reflections
+
+I have spent just under three hours on this assignment, the first hour was taken up by the CAD Model and CAD drawing. The second hour consisted of making this page. The strength equation that I had used was o = (Mc) / I. For feature A, I rearranged the equation to solve for the diameter, which ended up being the leading diameter. I recorded the calculated diameter value as variable "A" for feature A in SolidWorks. This allowed the cylinder size to be a driven size and could easily be changed by updating the equation value. Later on the value was updated in my calculations, so I went back to the equations tab and updated the variable value and just clicked the rebuild button to rebuild the model with the new updated value. I did not apply the tigthest tolerance to all the dimension values, as this drives up the manufacturing cost exponentially. By requiring such precise dimensions, it means more precise machining equipment is needed which is really expensive. I added the tolerances based on calculations and the tightest ones were for feature C, D and E. These tolerances were the tightest as the smallest variations in these dimensions causes a giant ripple affect for the calculations, as these values are used in many other calculations. The overall size of the model had the highest tolerance values as those dimensions can vary without drastic misfortune. 
+
+ 
