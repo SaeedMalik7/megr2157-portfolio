@@ -23,14 +23,15 @@ Before I could begin making the last features, I made a rectangle block and extr
 <img width="1743" height="877" alt="image" src="https://github.com/user-attachments/assets/81f9b6e3-6842-4331-a42a-206bcee8e133" />
 <img width="705" height="766" alt="image" src="https://github.com/user-attachments/assets/5d75c4cf-422b-4cd7-8cc9-e4d9de5c9853" />
 
-Below is the link for the CAD Model.
--<a href="./A6 Bracket.SLDPRT" download>Motor Mount</a>
 
 ### Drawing
 <img width="1088" height="840" alt="image" src="https://github.com/user-attachments/assets/b7df077b-7e85-4b00-ab0f-ffe71f4f4a4d" />
 
 ## Decide
 ### CAD Model
+
+Below is the link for the CAD Model.
+-<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
 
 ## Communicate
 ### Reflections
