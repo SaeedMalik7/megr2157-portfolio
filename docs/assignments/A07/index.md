@@ -64,7 +64,10 @@ The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
 ```
 
 ## Decide
-
+### Setup
+### Iteration I
+### Iteration II
+### Iteration III
 
 ## Communicate
-
+### Reflections 
