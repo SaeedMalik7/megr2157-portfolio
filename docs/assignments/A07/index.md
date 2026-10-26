@@ -16,9 +16,18 @@ Your task is simply to create a high stiff, high strength, and lightweight compo
 <img width="798" height="727" alt="image" src="https://github.com/user-attachments/assets/8b0d9610-1e7a-4794-a85d-86467a9a5c23" />
 
 ## Analyze
+### Setup
 
 The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
+<img width="1517" height="945" alt="image" src="https://github.com/user-attachments/assets/7f2d75f8-e808-4938-bf41-1ff358ac608f" />
+<img width="1583" height="897" alt="image" src="https://github.com/user-attachments/assets/3e7f2dff-9ee8-4f3d-af90-f243206fb5b7" />
+### Iteration I
+### Iteration II
+### Iteration III
 
+
+## Decide
+### Data Table 
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black; font-family: 'Times New Roman', serif; font-size: 18px; color: black;">
     <thead>
         <tr style="height: 38px;">
@@ -61,13 +70,6 @@ The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
         </tr>
     </tbody>
 </table>
-```
-
-## Decide
-### Setup
-### Iteration I
-### Iteration II
-### Iteration III
 
 ## Communicate
 ### Reflections 
