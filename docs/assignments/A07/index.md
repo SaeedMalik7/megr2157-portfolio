@@ -22,6 +22,14 @@ The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
 <img width="1517" height="945" alt="image" src="https://github.com/user-attachments/assets/7f2d75f8-e808-4938-bf41-1ff358ac608f" />
 <img width="1583" height="897" alt="image" src="https://github.com/user-attachments/assets/3e7f2dff-9ee8-4f3d-af90-f243206fb5b7" />
 ### Iteration I
+#### Coarse
+<img width="1583" height="915" alt="image" src="https://github.com/user-attachments/assets/768a22a4-9038-44e2-a26a-7ac30c5bad5d" />
+<img width="1492" height="922" alt="image" src="https://github.com/user-attachments/assets/e1b5eaee-0950-45f6-b4d5-f064a6c36b5f" />
+<img width="1542" height="935" alt="image" src="https://github.com/user-attachments/assets/753642a2-d6eb-4581-84ed-0c124863dc03" />
+<img width="1505" height="922" alt="image" src="https://github.com/user-attachments/assets/67c32a12-8efd-4e84-aa1d-1acaff315499" />
+<img width="1465" height="921" alt="image" src="https://github.com/user-attachments/assets/d9fa63ee-62e9-4b05-a024-e0f68bd0da7a" />
+<img width="1507" height="932" alt="image" src="https://github.com/user-attachments/assets/afa8b5ce-ab23-446b-8a23-074c5faaf675" />
+
 ### Iteration II
 ### Iteration III
 
