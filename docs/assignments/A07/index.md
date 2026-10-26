@@ -16,6 +16,9 @@ Your task is simply to create a high stiff, high strength, and lightweight compo
 <img width="798" height="727" alt="image" src="https://github.com/user-attachments/assets/8b0d9610-1e7a-4794-a85d-86467a9a5c23" />
 
 ## Analyze
+
+The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
+
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black; font-family: 'Times New Roman', serif; font-size: 18px; color: black;">
     <thead>
         <tr style="height: 38px;">
