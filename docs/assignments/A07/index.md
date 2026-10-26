@@ -31,6 +31,13 @@ The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
 <img width="1507" height="932" alt="image" src="https://github.com/user-attachments/assets/afa8b5ce-ab23-446b-8a23-074c5faaf675" />
 <img width="542" height="966" alt="image" src="https://github.com/user-attachments/assets/a1eb7beb-4a0a-48d0-8f81-6339540188a3" />
 #### Medium Mesh
+<img width="1485" height="937" alt="image" src="https://github.com/user-attachments/assets/04e0e408-f72a-48cd-84b6-1c9f7c9c3e0b" />
+<img width="1525" height="936" alt="image" src="https://github.com/user-attachments/assets/344aa02a-581c-44e2-a905-6869e595b0da" />
+<img width="1481" height="930" alt="image" src="https://github.com/user-attachments/assets/87ac2a0a-a707-46eb-9651-d3f7cfa06d73" />
+<img width="1482" height="932" alt="image" src="https://github.com/user-attachments/assets/3cdfc2a2-0355-46e7-8821-c7e0009253b8" />
+<img width="1507" height="931" alt="image" src="https://github.com/user-attachments/assets/1fb5240e-e916-4eac-b14c-8bb013bf3a34" />
+<img width="1500" height="925" alt="image" src="https://github.com/user-attachments/assets/ed0143a7-fd6d-4cf2-9d3f-24b6d9fb912f" />
+
 #### Fine Mesh
 
 ### Iteration II
