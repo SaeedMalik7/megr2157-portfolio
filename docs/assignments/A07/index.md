@@ -16,7 +16,50 @@ Your task is simply to create a high stiff, high strength, and lightweight compo
 <img width="798" height="727" alt="image" src="https://github.com/user-attachments/assets/8b0d9610-1e7a-4794-a85d-86467a9a5c23" />
 
 ## Analyze
-
+```html
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black; font-family: 'Times New Roman', serif; font-size: 18px; color: black;">
+    <thead>
+        <tr style="height: 38px;">
+            <th style="width: 26.5%; border: 1px solid black; padding: 6px 8px;"></th>
+            <th style="width: 23.5%; border: 1px solid black; padding: 6px 8px; text-align: left;">Design 1</th>
+            <th style="width: 25%; border: 1px solid black; padding: 6px 8px; text-align: left;">Design II</th>
+            <th style="width: 25%; border: 1px solid black; padding: 6px 8px; text-align: left;">Design III</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="height: 37px;">
+            <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Max Stress and location</th>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+        </tr>
+        <tr style="height: 57px;">
+            <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Max deflection and<br>location</th>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+        </tr>
+        <tr style="height: 38px;">
+            <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">mass</th>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+        </tr>
+        <tr style="height: 37px;">
+            <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Safety Factor</th>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+        </tr>
+        <tr style="height: 38px;">
+            <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Number of elements</th>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+        </tr>
+    </tbody>
+</table>
+```
 
 ## Decide
 
