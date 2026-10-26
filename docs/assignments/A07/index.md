@@ -81,9 +81,31 @@ The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
 
 ### Iteration III
 
+<img width="1826" height="1017" alt="image" src="https://github.com/user-attachments/assets/906e59c8-1573-4121-b15d-e85cea1a70a1" />
+<img width="1752" height="937" alt="image" src="https://github.com/user-attachments/assets/f2c9cd9f-c72b-42e0-b830-6b5bfbd5c9de" />
+
 #### Coarse Mesh
+
+<img width="1797" height="1000" alt="image" src="https://github.com/user-attachments/assets/0a301b2e-ce7a-463b-85a9-99346dd6ac5e" />
+<img width="1472" height="947" alt="image" src="https://github.com/user-attachments/assets/a6b68bf4-07d1-4a12-a28e-cf0489533354" />
+<img width="1460" height="940" alt="image" src="https://github.com/user-attachments/assets/f3be309b-2987-43e6-976a-9d1358abd97d" />
+<img width="1457" height="940" alt="image" src="https://github.com/user-attachments/assets/ead6c58c-d804-4610-86a0-d01ad6a8810d" />
+<img width="1462" height="937" alt="image" src="https://github.com/user-attachments/assets/34e293d1-2038-4851-a665-7806c2c222f8" />
+<img width="1467" height="936" alt="image" src="https://github.com/user-attachments/assets/1f556851-866e-4c91-8ccb-3a9df9c2df69" />
+
 #### Medium Mesh
+
+<img width="1451" height="922" alt="image" src="https://github.com/user-attachments/assets/ceddcade-14ec-4306-86a9-548db3e23e37" />
+<img width="1466" height="937" alt="image" src="https://github.com/user-attachments/assets/e9988929-fe86-4bd5-826f-fd04fd70b543" />
+<img width="1456" height="937" alt="image" src="https://github.com/user-attachments/assets/eccdc7d3-8c28-4ed2-840a-273d658c63c7" />
+<img width="1462" height="936" alt="image" src="https://github.com/user-attachments/assets/7a8ca134-82cd-46ec-a940-b1ff2d900016" />
+
 #### Fine Mesh
+
+<img width="1465" height="941" alt="image" src="https://github.com/user-attachments/assets/a59f45f0-ca44-4040-93a4-40c6c95903a9" />
+<img width="1452" height="937" alt="image" src="https://github.com/user-attachments/assets/f05bcfd6-433d-40e6-8816-4ce314f02451" />
+<img width="1452" height="935" alt="image" src="https://github.com/user-attachments/assets/7aca54d5-9d79-4dd7-9020-3eb12601ad5f" />
+<img width="1462" height="940" alt="image" src="https://github.com/user-attachments/assets/969a3634-2226-4464-8c4b-1dedadf503c6" />
 
 ## Decide
 ### Data Table 
