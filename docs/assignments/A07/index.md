@@ -72,6 +72,13 @@ The selected Material for the Bracket is the same as before, of ASTM A36 Steel.
 
 #### Fine Mesh
 
+<img width="1462" height="933" alt="image" src="https://github.com/user-attachments/assets/7c840981-e5e1-4e68-8e1a-1aedce02af51" />
+<img width="1461" height="940" alt="image" src="https://github.com/user-attachments/assets/47e5a4c4-1d39-449b-8d6a-d3df10bf4092" />
+<img width="1472" height="937" alt="image" src="https://github.com/user-attachments/assets/d867afbd-f6d6-4c8b-b284-ae21f56caed6" />
+<img width="1471" height="935" alt="image" src="https://github.com/user-attachments/assets/a06d28d6-65ce-4007-adf3-7ac83833fc08" />
+<img width="1456" height="937" alt="image" src="https://github.com/user-attachments/assets/2bd489ae-2250-4dc4-a6a0-5fdb3d3f6ae5" />
+<img width="1462" height="932" alt="image" src="https://github.com/user-attachments/assets/ef1f04d7-086f-469a-b318-d64ed12cfe3c" />
+
 ### Iteration III
 
 #### Coarse Mesh
