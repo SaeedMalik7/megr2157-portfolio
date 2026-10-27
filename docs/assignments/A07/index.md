@@ -250,14 +250,14 @@ The max deflection location for Design 1 was
         <tr style="height: 38px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">mass</th>
             <td style="border: 1px solid black; padding: 6px 8px;"> 1.86 lb </td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 1.88 lb </td>
+            <td style="border: 1px solid black; padding: 6px 8px;">2.80 lb </td>
         </tr>
         <tr style="height: 37px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Safety Factor</th>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 3.9e+04 </td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 3.4e+04 </td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 1.3e+04 </td>
         </tr>
         <tr style="height: 38px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Number of elements</th>
@@ -272,8 +272,8 @@ The max deflection location for Design 1 was
 
 I have linked all 3 Cad models below.
 
--<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
--<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
--<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
+-<a href="./A7 Bracket.SLDPRT" download>Bracket</a>
+-<a href="./A7 Bracket v2.SLDPRT" download>Bracket v2 </a>
+-<a href="./A7 Bracket v3.SLDPRT" download>Bracket v3 </a>
 
 ### Reflections 
