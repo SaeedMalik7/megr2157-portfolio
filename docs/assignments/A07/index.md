@@ -268,6 +268,8 @@ The max deflection location for Design 1 was
     </tbody>
 </table>
 
+The best design is iteration 3, it is the heaviest but it has the smallest stress and deflection values. It also has the lowest safety factor values. It does weight the most but that is a tradeoff for safety and strenght.
+
 ## Communicate
 
 I have linked all 3 Cad models below.
@@ -277,3 +279,5 @@ I have linked all 3 Cad models below.
 -<a href="./A7 Bracket v3.SLDPRT" download>Bracket v3 </a>
 
 ### Reflections 
+
+I have spent roughly close to 6 hours on this assignment and I have learned a lot. I got to see in action how different mesh categories affect your results, a finer mesh gives more accurate results but also takes longer to run the difference is minimal. Seeing the mesh values affect the data in real time was a great way to learn the reasons behind choosing the specific meshes for parts. This assignment gave me another opportunity to refresh my Cad Skills and for the first time ever, I was given the ability to iterate and work on a design multiple times for a specific goal. 
