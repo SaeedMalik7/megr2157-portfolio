@@ -113,7 +113,7 @@ The two pictures above are after a stress analysis was conducted. The max stress
 <img width="1465" height="937" alt="image" src="https://github.com/user-attachments/assets/425837ae-ef3f-45c7-a03e-cd48599698e6" />
 <img width="1472" height="941" alt="image" src="https://github.com/user-attachments/assets/a263a22d-8f21-4bcd-968b-f85da66ee05b" />
 
-The two pictures above were conducted after a deflection analysis. The location of max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 000001501 mm.
+The two pictures above were conducted after a deflection analysis. The location of max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 0.000001501 mm.
 
 <img width="1465" height="935" alt="image" src="https://github.com/user-attachments/assets/2db0556c-af82-43ea-bb38-a94811a10ec3" />
 
@@ -132,7 +132,7 @@ The two pictures above are stress analysis pictures. The location of the max str
 <img width="1462" height="940" alt="image" src="https://github.com/user-attachments/assets/d45e883f-4b41-417f-b2bd-7bf6a4242835" />
 <img width="1465" height="937" alt="image" src="https://github.com/user-attachments/assets/147b4d5e-4c1a-4493-9954-6e78ffabff33" />
 
-The next two pictures are deflection analysis pictures. The max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 000001456 mm.
+The next two pictures are deflection analysis pictures. The max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 0.000001456 mm.
 
 <img width="1457" height="940" alt="image" src="https://github.com/user-attachments/assets/40d3830e-b047-4ef7-8b58-ff1f3faa68e4" />
 
@@ -152,7 +152,7 @@ The two pictures above are stress analysis pictures. The location of the max str
 <img width="1471" height="935" alt="image" src="https://github.com/user-attachments/assets/a06d28d6-65ce-4007-adf3-7ac83833fc08" />
 <img width="1456" height="937" alt="image" src="https://github.com/user-attachments/assets/2bd489ae-2250-4dc4-a6a0-5fdb3d3f6ae5" />
 
-The next two pictures are deflection analysis pictures. The max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 000001433 mm.
+The next two pictures are deflection analysis pictures. The max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 0.000001433 mm.
 
 <img width="1462" height="932" alt="image" src="https://github.com/user-attachments/assets/ef1f04d7-086f-469a-b318-d64ed12cfe3c" />
 
@@ -172,21 +172,33 @@ A coarse mesh was applied which had 1192 elements.
 <img width="1797" height="1000" alt="image" src="https://github.com/user-attachments/assets/0a301b2e-ce7a-463b-85a9-99346dd6ac5e" />
 <img width="1472" height="947" alt="image" src="https://github.com/user-attachments/assets/a6b68bf4-07d1-4a12-a28e-cf0489533354" />
 <img width="1460" height="940" alt="image" src="https://github.com/user-attachments/assets/f3be309b-2987-43e6-976a-9d1358abd97d" />
+<img width="1457" height="940" alt="image" src="https://github.com/user-attachments/assets/ead6c58c-d804-4610-86a0-d01ad6a8810d" />
 
 The three pictures above are stress analysis, this test caused Part B to bend way more than before causing the Bracket too look a little deformed. The max stress was on the front side of the part B of 1735 N/m^2, which is way lower than before.
 
-<img width="1457" height="940" alt="image" src="https://github.com/user-attachments/assets/ead6c58c-d804-4610-86a0-d01ad6a8810d" />
 <img width="1462" height="937" alt="image" src="https://github.com/user-attachments/assets/34e293d1-2038-4851-a665-7806c2c222f8" />
 
-The pictures above are deflection analysis pictures. This also caused the part to deform and point upwards. The max deflection occured right where the fillet was added, the value was  
+The picture above is a deflection analysis picture. This also caused the part to deform and point upwards. The max deflection occurred on the opposite end from before, at the front bottom end of the circle. The deflection is .000008355mm.
 
 <img width="1467" height="936" alt="image" src="https://github.com/user-attachments/assets/1f556851-866e-4c91-8ccb-3a9df9c2df69" />
 
+The safety factor was 1.4e+04, which is way under 4. That means this iteration passes.
+
 #### Medium Mesh
 
+A medium mesh with 7444 elements was applied.
+
 <img width="1451" height="922" alt="image" src="https://github.com/user-attachments/assets/ceddcade-14ec-4306-86a9-548db3e23e37" />
+
+The  picture above is a stress analysis, this test caused Part B to bend way more than before causing the Bracket too look a little deformed. The max stress was on the front side of the part B of 1660 N/m^2, which is way lower than before.
+
 <img width="1466" height="937" alt="image" src="https://github.com/user-attachments/assets/e9988929-fe86-4bd5-826f-fd04fd70b543" />
+
+The picture above is a deflection analysis picture. This also caused the part to deform and point upwards. The max deflection occurred on the opposite end from before, at the front bottom end of the circle. The deflection is .000008860mm.
+
 <img width="1456" height="937" alt="image" src="https://github.com/user-attachments/assets/eccdc7d3-8c28-4ed2-840a-273d658c63c7" />
+
+
 <img width="1462" height="936" alt="image" src="https://github.com/user-attachments/assets/7a8ca134-82cd-46ec-a940-b1ff2d900016" />
 
 #### Fine Mesh
