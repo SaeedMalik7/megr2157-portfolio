@@ -33,7 +33,7 @@ First up I used the original bracket design and conducted a stress, deflection, 
 First up is the original bracket design with a coarse mesh including 1192 total elements. 
 <img width="1492" height="922" alt="image" src="https://github.com/user-attachments/assets/e1b5eaee-0950-45f6-b4d5-f064a6c36b5f" />
 <img width="1542" height="935" alt="image" src="https://github.com/user-attachments/assets/753642a2-d6eb-4581-84ed-0c124863dc03" />
-The two pictures above are the stress pictures from an isometric and right side view. The Max stress occurs at point right below the connection in Part B, the value is 4557 N/m^2/
+The two pictures above are the stress pictures from an isometric and right side view. The Max stress occurs at point right below the connection in Part B, the value is 4557 Nm^2.
 
 <img width="1505" height="922" alt="image" src="https://github.com/user-attachments/assets/67c32a12-8efd-4e84-aa1d-1acaff315499" />
 <img width="1465" height="921" alt="image" src="https://github.com/user-attachments/assets/d9fa63ee-62e9-4b05-a024-e0f68bd0da7a" />
@@ -48,28 +48,51 @@ This is a safety factor test and it shows a max value of 5.5e+04, which would fa
 The mass of the original iteration is 1.86 pounds. 
 
 #### Medium Mesh
+Next up was a medium mesh analysis. 
 <img width="1485" height="937" alt="image" src="https://github.com/user-attachments/assets/04e0e408-f72a-48cd-84b6-1c9f7c9c3e0b" />
 <img width="1525" height="936" alt="image" src="https://github.com/user-attachments/assets/344aa02a-581c-44e2-a905-6869e595b0da" />
 <img width="1481" height="930" alt="image" src="https://github.com/user-attachments/assets/87ac2a0a-a707-46eb-9651-d3f7cfa06d73" />
+
+The two pictures right above are the pictures right after a stress analysis was conducted. The max stress value was 4871 N/mm^2 and it occurred at the same location as in the coarse mesh.
 <img width="1482" height="932" alt="image" src="https://github.com/user-attachments/assets/3cdfc2a2-0355-46e7-8821-c7e0009253b8" />
 <img width="1507" height="931" alt="image" src="https://github.com/user-attachments/assets/1fb5240e-e916-4eac-b14c-8bb013bf3a34" />
+
+The two pictures above are the max deflection pictures after conducting the analysis. The Max deflection occurs at the bottom of the circle which is part A, the value is 0.000001527 mm.
+
 <img width="1500" height="925" alt="image" src="https://github.com/user-attachments/assets/ed0143a7-fd6d-4cf2-9d3f-24b6d9fb912f" />
 
+The safety factor did not change at all, it is the same value of 5.5e+04, and it still fails as it is not enough.
+
 #### Fine Mesh
+
+Lastly the analysis with a Fine Mesh was conducted for stress, deflection and safety factor. 
 <img width="1517" height="922" alt="image" src="https://github.com/user-attachments/assets/552aacb2-c841-4647-b35b-151bae533b7b" />
 <img width="1517" height="931" alt="image" src="https://github.com/user-attachments/assets/a255cb27-d907-4284-a25a-8181b8783e6d" />
 <img width="1500" height="942" alt="image" src="https://github.com/user-attachments/assets/6ea45f4a-cf98-4eec-a30d-b613f4e7c236" />
+
+The two pictures right above are pictures of a stress analysis, the max stress is almost gone and it it just at the connecting point of B to C. The max stress is 6364 Nm^2.
+
 <img width="1485" height="930" alt="image" src="https://github.com/user-attachments/assets/67093204-8ab2-45d5-be8d-404fd4a25138" />
 <img width="1467" height="930" alt="image" src="https://github.com/user-attachments/assets/12e8fe2c-3e6d-4c51-a0ec-c6e2b61175cf" />
+
+The two pictures above are deflection analysis, the max location has not changed and is still at the bottom of the circle on the back side. The max value is 0.000001485 mm.
 <img width="1492" height="926" alt="image" src="https://github.com/user-attachments/assets/cafc37cd-2fe8-4e1d-942c-3c076e4abf30" />
+
+The safety factor decreased to a value of 3.9e+04 all around the bracket. This value is in line with the requirement of 4. 
+
+Below is the link for the CAD Model.
+-<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
 
 ### Iteration II
 
 <img width="1337" height="937" alt="image" src="https://github.com/user-attachments/assets/b250a8cd-ab6b-4bab-a9e2-b23410af076b" />
 
+For the second iteration, I made part B thicker, I doubled the thickness value which was set when the bracket was made. Then I clicked rebuilt and re did all of the analysis. 
+
 #### Coarse Mesh
 
 <img width="1790" height="980" alt="image" src="https://github.com/user-attachments/assets/009bfd30-0ca8-4932-82ef-8d3562de7e1d" />
+A coarse mesh was applied to the part with 1192 elements
 <img width="1465" height="932" alt="image" src="https://github.com/user-attachments/assets/151f8bac-d4fa-4cea-a73d-a1e018eca93c" />
 <img width="1462" height="936" alt="image" src="https://github.com/user-attachments/assets/10e27a3e-401e-42d2-8d39-7ad491f5372d" />
 <img width="1465" height="937" alt="image" src="https://github.com/user-attachments/assets/425837ae-ef3f-45c7-a03e-cd48599698e6" />
