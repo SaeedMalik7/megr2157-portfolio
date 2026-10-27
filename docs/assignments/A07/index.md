@@ -54,7 +54,7 @@ The mass of the original iteration is 1.86 pounds.
 
 #### Medium Mesh
 
-Next up was a medium mesh analysis, including 5680 elements. 
+Next up was a medium mesh analysis, including 5772 elements. 
 
 <img width="1485" height="937" alt="image" src="https://github.com/user-attachments/assets/04e0e408-f72a-48cd-84b6-1c9f7c9c3e0b" />
 <img width="1525" height="936" alt="image" src="https://github.com/user-attachments/assets/344aa02a-581c-44e2-a905-6869e595b0da" />
@@ -73,7 +73,7 @@ The safety factor did not change at all, it is the same value of 5.5e+04, and it
 
 #### Fine Mesh
 
-Lastly the analysis with a Fine Mesh was conducted for stress, deflection and safety factor. This includes 64320 values.
+Lastly the analysis with a Fine Mesh was conducted for stress, deflection and safety factor. This includes 65161 values.
 
 <img width="1517" height="922" alt="image" src="https://github.com/user-attachments/assets/552aacb2-c841-4647-b35b-151bae533b7b" />
 <img width="1517" height="931" alt="image" src="https://github.com/user-attachments/assets/a255cb27-d907-4284-a25a-8181b8783e6d" />
@@ -167,11 +167,19 @@ Lastly, for the last iteration I made two changes. First I increased the extrude
 
 #### Coarse Mesh
 
+A coarse mesh was applied which had 1192 elements. 
+
 <img width="1797" height="1000" alt="image" src="https://github.com/user-attachments/assets/0a301b2e-ce7a-463b-85a9-99346dd6ac5e" />
 <img width="1472" height="947" alt="image" src="https://github.com/user-attachments/assets/a6b68bf4-07d1-4a12-a28e-cf0489533354" />
 <img width="1460" height="940" alt="image" src="https://github.com/user-attachments/assets/f3be309b-2987-43e6-976a-9d1358abd97d" />
+
+The three pictures above are stress analysis, this test caused Part B to bend way more than before causing the Bracket too look a little deformed. The max stress was on the front side of the part B of 1735 N/m^2, which is way lower than before.
+
 <img width="1457" height="940" alt="image" src="https://github.com/user-attachments/assets/ead6c58c-d804-4610-86a0-d01ad6a8810d" />
 <img width="1462" height="937" alt="image" src="https://github.com/user-attachments/assets/34e293d1-2038-4851-a665-7806c2c222f8" />
+
+The pictures above are deflection analysis pictures. This also caused the part to deform and point upwards. The max deflection occured right where the fillet was added, the value was  
+
 <img width="1467" height="936" alt="image" src="https://github.com/user-attachments/assets/1f556851-866e-4c91-8ccb-3a9df9c2df69" />
 
 #### Medium Mesh
