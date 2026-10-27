@@ -160,6 +160,8 @@ The safety factor decreased to a value of 3.4e+04 all around the bracket. This v
 
 ### Iteration III
 
+Lastly, for the last iteration I made two changes. First I increased the extruded length of the Circle by half an inch. After that I added a fillet of 0.200 in from Part B to Part A, the overall plan was to add more material in ways that made sense to the Design to help with stress and deflection. 
+
 <img width="1826" height="1017" alt="image" src="https://github.com/user-attachments/assets/906e59c8-1573-4121-b15d-e85cea1a70a1" />
 <img width="1752" height="937" alt="image" src="https://github.com/user-attachments/assets/f2c9cd9f-c72b-42e0-b830-6b5bfbd5c9de" />
 
