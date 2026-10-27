@@ -90,8 +90,6 @@ The two pictures above are deflection analysis, the max location has not changed
 
 The safety factor decreased to a value of 3.9e+04 all around the bracket. This value is in line with the requirement of 4. 
 
-Below is the link for the CAD Model.
--<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
 
 ### Iteration II
 
@@ -212,7 +210,7 @@ The picture above is a stress analysis, the max stress moved to the edges of the
 
 <img width="1452" height="935" alt="image" src="https://github.com/user-attachments/assets/7aca54d5-9d79-4dd7-9020-3eb12601ad5f" />
 
-The picture above is a deflection analysis picture. This also caused the part to deform and point upwards. The max deflection occurred on the opposite end from before, at the front bottom end of the circle. The deflection is .000009233mm.
+The picture above is a deflection analysis picture. This also caused the part to deform and point upwards. The max deflection occurred on the opposite end from before, at the front bottom end of the circle. The deflection is 0.000009233mm.
 
 <img width="1462" height="940" alt="image" src="https://github.com/user-attachments/assets/969a3634-2226-4464-8c4b-1dedadf503c6" />
 
@@ -241,17 +239,17 @@ The max deflection location for Design 1 was
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Max Stress and location</th>
             <td style="border: 1px solid black; padding: 6px 8px;"> 6364 N/m^2 </td>
             <td style="border: 1px solid black; padding: 6px 8px;"> 7261 N/m^2 </td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 2000 N/m^2 </td>
         </tr>
         <tr style="height: 57px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Max deflection and<br>location</th>
-            <td style="border: 1px solid black; padding: 6px 8px;"> 0.000001485 mm. </td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 0.000001485 mm </td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 0.000001433 mm</td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 0.000009233mm </td>
         </tr>
         <tr style="height: 38px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">mass</th>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 1.86 lb </td>
             <td style="border: 1px solid black; padding: 6px 8px;"></td>
             <td style="border: 1px solid black; padding: 6px 8px;"></td>
         </tr>
@@ -263,12 +261,19 @@ The max deflection location for Design 1 was
         </tr>
         <tr style="height: 38px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Number of elements</th>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 65161</td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 65161 </td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 62001 </td>
         </tr>
     </tbody>
 </table>
 
 ## Communicate
+
+I have linked all 3 Cad models below.
+
+-<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
+-<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
+-<a href="./A6 Bracket.SLDPRT" download>Bracket</a>
+
 ### Reflections 
