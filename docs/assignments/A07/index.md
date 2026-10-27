@@ -79,7 +79,7 @@ Lastly the analysis with a Fine Mesh was conducted for stress, deflection and sa
 <img width="1517" height="931" alt="image" src="https://github.com/user-attachments/assets/a255cb27-d907-4284-a25a-8181b8783e6d" />
 <img width="1500" height="942" alt="image" src="https://github.com/user-attachments/assets/6ea45f4a-cf98-4eec-a30d-b613f4e7c236" />
 
-The two pictures right above are pictures of a stress analysis, the max stress is almost gone and it it just at the connecting point of B to C. The max stress is 6364 Nm^2.
+The two pictures right above are pictures of a stress analysis, the max stress is almost gone and it it just at the connecting point of B to C. The max stress is 6364 N/m^2.
 
 <img width="1485" height="930" alt="image" src="https://github.com/user-attachments/assets/67093204-8ab2-45d5-be8d-404fd4a25138" />
 <img width="1467" height="930" alt="image" src="https://github.com/user-attachments/assets/12e8fe2c-3e6d-4c51-a0ec-c6e2b61175cf" />
@@ -189,27 +189,44 @@ The safety factor was 1.4e+04, which is way under 4. That means this iteration p
 A medium mesh with 7444 elements was applied.
 
 <img width="1451" height="922" alt="image" src="https://github.com/user-attachments/assets/ceddcade-14ec-4306-86a9-548db3e23e37" />
+<img width="1466" height="937" alt="image" src="https://github.com/user-attachments/assets/e9988929-fe86-4bd5-826f-fd04fd70b543" />
 
 The  picture above is a stress analysis, this test caused Part B to bend way more than before causing the Bracket too look a little deformed. The max stress was on the front side of the part B of 1660 N/m^2, which is way lower than before.
 
-<img width="1466" height="937" alt="image" src="https://github.com/user-attachments/assets/e9988929-fe86-4bd5-826f-fd04fd70b543" />
+<img width="1456" height="937" alt="image" src="https://github.com/user-attachments/assets/eccdc7d3-8c28-4ed2-840a-273d658c63c7" />
 
 The picture above is a deflection analysis picture. This also caused the part to deform and point upwards. The max deflection occurred on the opposite end from before, at the front bottom end of the circle. The deflection is .000008860mm.
 
-<img width="1456" height="937" alt="image" src="https://github.com/user-attachments/assets/eccdc7d3-8c28-4ed2-840a-273d658c63c7" />
-
-
 <img width="1462" height="936" alt="image" src="https://github.com/user-attachments/assets/7a8ca134-82cd-46ec-a940-b1ff2d900016" />
+
+The safety factor was 1.5e+04, which is way under 4. That means this iteration passes.
 
 #### Fine Mesh
 
+Lastly, a fine mesh was applied of 62001 elements.
+
 <img width="1465" height="941" alt="image" src="https://github.com/user-attachments/assets/a59f45f0-ca44-4040-93a4-40c6c95903a9" />
 <img width="1452" height="937" alt="image" src="https://github.com/user-attachments/assets/f05bcfd6-433d-40e6-8816-4ce314f02451" />
+
+The picture above is a stress analysis, the max stress moved to the edges of the front of part b connecting to part c. The value is 2000 N/m^2.
+
 <img width="1452" height="935" alt="image" src="https://github.com/user-attachments/assets/7aca54d5-9d79-4dd7-9020-3eb12601ad5f" />
+
+The picture above is a deflection analysis picture. This also caused the part to deform and point upwards. The max deflection occurred on the opposite end from before, at the front bottom end of the circle. The deflection is .000009233mm.
+
 <img width="1462" height="940" alt="image" src="https://github.com/user-attachments/assets/969a3634-2226-4464-8c4b-1dedadf503c6" />
+
+This had the smallest safety factor value of 1.3e+04, which is good as it passes.
 
 ## Decide
 ### Data Table 
+
+To keep is standard, only fine mesh values were used from all iterations.
+The max stres location for Design 1 and 2 was the same at
+The max defelection location for Desing 1 and 2 was the same at
+The max stress location for Design 1 was
+The max deflection location for Design 1 was
+
 <table style="width: 100%; border-collapse: collapse; border: 1px solid black; font-family: 'Times New Roman', serif; font-size: 18px; color: black;">
     <thead>
         <tr style="height: 38px;">
@@ -222,13 +239,13 @@ The picture above is a deflection analysis picture. This also caused the part to
     <tbody>
         <tr style="height: 37px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Max Stress and location</th>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 6364 N/m^2 </td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 7261 N/m^2 </td>
             <td style="border: 1px solid black; padding: 6px 8px;"></td>
         </tr>
         <tr style="height: 57px;">
             <th style="border: 1px solid black; padding: 6px 8px; text-align: left;">Max deflection and<br>location</th>
-            <td style="border: 1px solid black; padding: 6px 8px;"></td>
+            <td style="border: 1px solid black; padding: 6px 8px;"> 0.000001485 mm. </td>
             <td style="border: 1px solid black; padding: 6px 8px;"></td>
             <td style="border: 1px solid black; padding: 6px 8px;"></td>
         </tr>
