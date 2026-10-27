@@ -31,13 +31,17 @@ First up I used the original bracket design and conducted a stress, deflection, 
 #### Coarse Mesh
 
 <img width="1583" height="915" alt="image" src="https://github.com/user-attachments/assets/768a22a4-9038-44e2-a26a-7ac30c5bad5d" />
+
 First up is the original bracket design with a coarse mesh including 1192 total elements. 
+
 <img width="1492" height="922" alt="image" src="https://github.com/user-attachments/assets/e1b5eaee-0950-45f6-b4d5-f064a6c36b5f" />
 <img width="1542" height="935" alt="image" src="https://github.com/user-attachments/assets/753642a2-d6eb-4581-84ed-0c124863dc03" />
+
 The two pictures above are the stress pictures from an isometric and right side view. The Max stress occurs at point right below the connection in Part B, the value is 4557 Nm^2.
 
 <img width="1505" height="922" alt="image" src="https://github.com/user-attachments/assets/67c32a12-8efd-4e84-aa1d-1acaff315499" />
 <img width="1465" height="921" alt="image" src="https://github.com/user-attachments/assets/d9fa63ee-62e9-4b05-a024-e0f68bd0da7a" />
+
 The two pictures above are the max deflection pictures after conducting the analysis. The Max deflection occurs at the bottom of the circle which is part A, the value is 0.000001539 mm.
 
 <img width="1507" height="932" alt="image" src="https://github.com/user-attachments/assets/afa8b5ce-ab23-446b-8a23-074c5faaf675" />
@@ -49,12 +53,15 @@ This is a safety factor test and it shows a max value of 5.5e+04, which would fa
 The mass of the original iteration is 1.86 pounds. 
 
 #### Medium Mesh
-Next up was a medium mesh analysis. 
+
+Next up was a medium mesh analysis, including 5680 elements. 
+
 <img width="1485" height="937" alt="image" src="https://github.com/user-attachments/assets/04e0e408-f72a-48cd-84b6-1c9f7c9c3e0b" />
 <img width="1525" height="936" alt="image" src="https://github.com/user-attachments/assets/344aa02a-581c-44e2-a905-6869e595b0da" />
 <img width="1481" height="930" alt="image" src="https://github.com/user-attachments/assets/87ac2a0a-a707-46eb-9651-d3f7cfa06d73" />
 
 The two pictures right above are the pictures right after a stress analysis was conducted. The max stress value was 4871 N/mm^2 and it occurred at the same location as in the coarse mesh.
+
 <img width="1482" height="932" alt="image" src="https://github.com/user-attachments/assets/3cdfc2a2-0355-46e7-8821-c7e0009253b8" />
 <img width="1507" height="931" alt="image" src="https://github.com/user-attachments/assets/1fb5240e-e916-4eac-b14c-8bb013bf3a34" />
 
@@ -66,7 +73,8 @@ The safety factor did not change at all, it is the same value of 5.5e+04, and it
 
 #### Fine Mesh
 
-Lastly the analysis with a Fine Mesh was conducted for stress, deflection and safety factor. 
+Lastly the analysis with a Fine Mesh was conducted for stress, deflection and safety factor. This includes 64320 values.
+
 <img width="1517" height="922" alt="image" src="https://github.com/user-attachments/assets/552aacb2-c841-4647-b35b-151bae533b7b" />
 <img width="1517" height="931" alt="image" src="https://github.com/user-attachments/assets/a255cb27-d907-4284-a25a-8181b8783e6d" />
 <img width="1500" height="942" alt="image" src="https://github.com/user-attachments/assets/6ea45f4a-cf98-4eec-a30d-b613f4e7c236" />
@@ -77,6 +85,7 @@ The two pictures right above are pictures of a stress analysis, the max stress i
 <img width="1467" height="930" alt="image" src="https://github.com/user-attachments/assets/12e8fe2c-3e6d-4c51-a0ec-c6e2b61175cf" />
 
 The two pictures above are deflection analysis, the max location has not changed and is still at the bottom of the circle on the back side. The max value is 0.000001485 mm.
+
 <img width="1492" height="926" alt="image" src="https://github.com/user-attachments/assets/cafc37cd-2fe8-4e1d-942c-3c076e4abf30" />
 
 The safety factor decreased to a value of 3.9e+04 all around the bracket. This value is in line with the requirement of 4. 
@@ -93,30 +102,61 @@ For the second iteration, I made part B thicker, I doubled the thickness value w
 #### Coarse Mesh
 
 <img width="1790" height="980" alt="image" src="https://github.com/user-attachments/assets/009bfd30-0ca8-4932-82ef-8d3562de7e1d" />
-A coarse mesh was applied to the part with 1192 elements
+
+A coarse mesh was applied to the part with 1192 elements.
+
 <img width="1465" height="932" alt="image" src="https://github.com/user-attachments/assets/151f8bac-d4fa-4cea-a73d-a1e018eca93c" />
 <img width="1462" height="936" alt="image" src="https://github.com/user-attachments/assets/10e27a3e-401e-42d2-8d39-7ad491f5372d" />
+
+The two pictures above are after a stress analysis was conducted. The max stress occurred on the back side of part B going across the part with slight gaps in between. The max stress value was 5187 N/m^2.
+
 <img width="1465" height="937" alt="image" src="https://github.com/user-attachments/assets/425837ae-ef3f-45c7-a03e-cd48599698e6" />
 <img width="1472" height="941" alt="image" src="https://github.com/user-attachments/assets/a263a22d-8f21-4bcd-968b-f85da66ee05b" />
+
+The two pictures above were conducted after a deflection analysis. The location of max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 000001501 mm.
+
 <img width="1465" height="935" alt="image" src="https://github.com/user-attachments/assets/2db0556c-af82-43ea-bb38-a94811a10ec3" />
 
+The max factor of safety was 4.8e+04, which is almost under the requirement of 4 but it is not, so it fails. There needs to be more material all around so the part can pass. 
+
 #### Medium Mesh
+
+A medium mesh was applied to the second iteration of the part, this includes 5772 elements. 
 
 <img width="1448" height="928" alt="image" src="https://github.com/user-attachments/assets/419cbf12-dd78-42dd-bc3a-df626b1cdf27" />
 <img width="1467" height="937" alt="image" src="https://github.com/user-attachments/assets/fa977eda-c27c-4933-aa3a-e4f17d1d5648" />
 <img width="1466" height="937" alt="image" src="https://github.com/user-attachments/assets/44f300db-0b34-48a1-ad58-792242cbf0bc" />
+
+The two pictures above are stress analysis pictures. The location of the max stress is unchanged and occurs right at the meeting point of Part B and Part C. The max value is 5950 N/m^2.
+
 <img width="1462" height="940" alt="image" src="https://github.com/user-attachments/assets/d45e883f-4b41-417f-b2bd-7bf6a4242835" />
 <img width="1465" height="937" alt="image" src="https://github.com/user-attachments/assets/147b4d5e-4c1a-4493-9954-6e78ffabff33" />
+
+The next two pictures are deflection analysis pictures. The max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 000001456 mm.
+
 <img width="1457" height="940" alt="image" src="https://github.com/user-attachments/assets/40d3830e-b047-4ef7-8b58-ff1f3faa68e4" />
+
+The max factor of safety was 4.2e+04, which is almost under the requirement of 4 but it is not, so it fails. There needs to be more material all around so the part can pass. 
 
 #### Fine Mesh
 
 <img width="1462" height="933" alt="image" src="https://github.com/user-attachments/assets/7c840981-e5e1-4e68-8e1a-1aedce02af51" />
+
+Lastly a Fine Mesh was applied to the part and this includes 65161 elements. 
+
 <img width="1461" height="940" alt="image" src="https://github.com/user-attachments/assets/47e5a4c4-1d39-449b-8d6a-d3df10bf4092" />
 <img width="1472" height="937" alt="image" src="https://github.com/user-attachments/assets/d867afbd-f6d6-4c8b-b284-ae21f56caed6" />
+
+The two pictures above are stress analysis pictures. The location of the max stress is unchanged and occurs right at the meeting point of Part B and Part C, although the amount of redness is decreasing. The max value is 7261 N/m^2. The max value went up but the area went down.
+
 <img width="1471" height="935" alt="image" src="https://github.com/user-attachments/assets/a06d28d6-65ce-4007-adf3-7ac83833fc08" />
 <img width="1456" height="937" alt="image" src="https://github.com/user-attachments/assets/2bd489ae-2250-4dc4-a6a0-5fdb3d3f6ae5" />
+
+The next two pictures are deflection analysis pictures. The max deflection is unchanged and is located at the bottom, backside of part A, which is the circle. The value is 000001433 mm.
+
 <img width="1462" height="932" alt="image" src="https://github.com/user-attachments/assets/ef1f04d7-086f-469a-b318-d64ed12cfe3c" />
+
+The safety factor decreased to a value of 3.4e+04 all around the bracket. This value is in line with the requirement of 4. 
 
 ### Iteration III
 
