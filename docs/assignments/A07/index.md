@@ -26,18 +26,25 @@ Before I could begin with the simulations, I had to set up the bracket. I added 
 ### Iteration I
 
 First up I used the original bracket design and conducted a stress, deflection, safety factor analysis. The mesh values went from Coarse to medium to Fine mesh for all three iterations. 
+
 #### Coarse Mesh
+
 <img width="1583" height="915" alt="image" src="https://github.com/user-attachments/assets/768a22a4-9038-44e2-a26a-7ac30c5bad5d" />
 First up is the original bracket design with a coarse mesh including 1192 total elements. 
 <img width="1492" height="922" alt="image" src="https://github.com/user-attachments/assets/e1b5eaee-0950-45f6-b4d5-f064a6c36b5f" />
 <img width="1542" height="935" alt="image" src="https://github.com/user-attachments/assets/753642a2-d6eb-4581-84ed-0c124863dc03" />
 The two pictures above are the stress pictures from an isometric and right side view. The Max stress occurs at point right below the connection in Part B, the value is 4557 N/m^2/
+
 <img width="1505" height="922" alt="image" src="https://github.com/user-attachments/assets/67c32a12-8efd-4e84-aa1d-1acaff315499" />
 <img width="1465" height="921" alt="image" src="https://github.com/user-attachments/assets/d9fa63ee-62e9-4b05-a024-e0f68bd0da7a" />
 The two pictures above are the max deflection pictures after conducting the analysis. The Max deflection occurs at the bottom of the circle which is part A, the value is 0.000001539 mm.
+
 <img width="1507" height="932" alt="image" src="https://github.com/user-attachments/assets/afa8b5ce-ab23-446b-8a23-074c5faaf675" />
+
 This is a safety factor test and it shows a max value of 5.5e+04, which would fail as the requirement for this design was to be of 4. It will fail due to a lack of enough requried matrial.
+
 <img width="542" height="966" alt="image" src="https://github.com/user-attachments/assets/a1eb7beb-4a0a-48d0-8f81-6339540188a3" />
+
 The mass of the original iteration is 1.86 pounds. 
 
 #### Medium Mesh
