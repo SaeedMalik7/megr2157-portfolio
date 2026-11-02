@@ -35,7 +35,6 @@ Use a running sliding fit for the size of the hole for the shafts.
 #### Final Calculations 
 
 - Maximum shear stress	1,222 psi
-- Material	AISI 1018 steel
 - Factor of safety	21.69
 - Shaft sufficient
 
