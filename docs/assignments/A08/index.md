@@ -49,16 +49,18 @@ Use a running sliding fit for the size of the hole for the shafts.
 #### Calculations
 
 Input Bearing Summary
-- 0.1250 in x 0.1250 in
-- Bearing Pressure - 170.30 psi
-- Surface Velocity - 96 fpm
-- PV 16,349 psi-fpm
+  0.1250 in x 0.1250 in
+
+- Bearing Pressure  170.30 psi
+- Surface Velocity  96 fpm
+- PV 16,349 psi fpm
 
 Output Bearing Summary
--0.250 in x 0.250 in
-- Bearing Pressure - 42.58 psi
-- Surface Velocity - 72 fpm
-- PV 3066 psi-fpm
+ 0.250 in x 0.250 in
+ 
+- Bearing Pressure  42.58 psi
+- Surface Velocity  72 fpm
+-  PV 3066 psi fpm
 
 #### Material
  Porous Bronze
