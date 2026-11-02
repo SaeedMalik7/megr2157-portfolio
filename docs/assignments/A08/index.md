@@ -24,18 +24,28 @@ Use a running sliding fit for the size of the hole for the shafts.
 <img width="902" height="681" alt="image" src="https://github.com/user-attachments/assets/d6c6c735-fdff-44dc-94db-a71aed446128" />
 
 ## Analyze
-### Shaft Design
-#### Final Calculations 
 
 - Input torque	0.46875 in·lbf
 - Input speed	2933.33 rpm
 - Shaft diameter	0.125 in
 - Shaft length	1 in
+- Material	AISI 1018 cold-drawn steel
+  
+### Input Shaft Design
+#### Final Calculations 
+
 - Maximum shear stress	1,222 psi
 - Material	AISI 1018 steel
 - Factor of safety	21.69
+- Shaft sufficient
 
+### Output Shaft Design
+#### Final Calculations 
 
+- Maximum shear stress	407.44 psi
+- Factor of safety	65.04
+- Shaft sufficient
+  
 ### Journal Bearings Design
 
 ## Decide
