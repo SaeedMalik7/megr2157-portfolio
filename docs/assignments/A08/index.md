@@ -95,6 +95,13 @@ Output Bearing Summary
 
 ## Decide
 ### Mac Master
+
+Input Shaft 
+<img width="1261" height="920" alt="image" src="https://github.com/user-attachments/assets/e9efca09-9b41-4c13-b123-149965317f60" />
+
+Output Shaft
+<img width="1242" height="916" alt="image" src="https://github.com/user-attachments/assets/84bdb359-3a1e-481b-9610-737a758cb449" />
+
 ### Sketch
 <img width="798" height="422" alt="image" src="https://github.com/user-attachments/assets/567db163-d692-496f-b117-8a2ebd57c34f" />
 
