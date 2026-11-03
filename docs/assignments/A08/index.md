@@ -25,6 +25,8 @@ Use a running sliding fit for the size of the hole for the shafts.
 
 ## Analyze
 
+First up I wrote out the given values from the description. 
+
 - Input torque	0.46875 in·lbf
 - Input speed	2933.33 rpm
 - Shaft diameter	0.125 in
@@ -35,10 +37,13 @@ Use a running sliding fit for the size of the hole for the shafts.
  
 ### Input Shaft Design
 
+I started with the Input Shaft first, I wrote the knowns which were mostly from the description, the unknowns, assumptions and drew the Free body diagram. The unknowns were to solve for Torque in, Speed in and max output. 
 <img width="811" height="567" alt="image" src="https://github.com/user-attachments/assets/46217b60-b98f-44c7-be33-64044d65ac52" />
 <img width="793" height="891" alt="image" src="https://github.com/user-attachments/assets/ba4a0af6-38ce-44ec-99c7-f21cd17b996a" />
 
 #### Final Calculations 
+
+The given Input Shaft calculations are below. The given shaft size was sufficient. 
 
 - Maximum shear stress	1,222 psi
 - Factor of safety	21.69
@@ -46,10 +51,13 @@ Use a running sliding fit for the size of the hole for the shafts.
 
 ### Output Shaft Design
 
+Next up was the Output Shaft design, this followed the same layout. I wrote the unknowns, knowns, assumptions and drew the free body diagram.The unknowns were to solve for Torque in, Speed in and max output. 
 <img width="751" height="922" alt="image" src="https://github.com/user-attachments/assets/96641422-e5a9-4499-86f0-db9391c52772" />
 <img width="750" height="283" alt="image" src="https://github.com/user-attachments/assets/5a5d641d-fe56-4684-9c50-598a8211deaf" />
 
 #### Final Calculations 
+
+The given Output Shaft calculations are below. The given shaft size was sufficient, again. 
 
 - Maximum shear stress	407.44 psi
 - Factor of safety	65.04
@@ -127,6 +135,7 @@ Output Shaft
 <img width="1467" height="942" alt="image" src="https://github.com/user-attachments/assets/695d7dff-d99f-42ae-857d-916ad9fb9fd3" />
 <img width="1342" height="885" alt="image" src="https://github.com/user-attachments/assets/5d1299c5-9be2-47c1-a13b-5197a9c74e43" />
 <img width="1067" height="707" alt="image" src="https://github.com/user-attachments/assets/97bdde47-165c-429c-9de0-ec939933202d" />
+-<a href="./A8 Gear.SLDPRT" download>Gear</a>
 
 
 ## Communicate
