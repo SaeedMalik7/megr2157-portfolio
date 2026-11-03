@@ -104,6 +104,8 @@ The material I chose was Porous Bronze after looking at Machinery's Handbook and
 
 ### Journal Bearing Thickness
 
+These are SAE 841 Oil-impregnated sintered bronze which is almost ideal to Porous Bronze, as these were the only ones valuables for the size I needed. 
+
 <img width="817" height="403" alt="image" src="https://github.com/user-attachments/assets/14f33749-74d7-461e-8c99-aa8188e23526" />
 <img width="848" height="947" alt="image" src="https://github.com/user-attachments/assets/b3a106b5-bf79-4e1e-9034-0bf03c0bd3bb" />
 
@@ -141,6 +143,7 @@ Output Shaft
 <img width="1467" height="942" alt="image" src="https://github.com/user-attachments/assets/695d7dff-d99f-42ae-857d-916ad9fb9fd3" />
 <img width="1342" height="885" alt="image" src="https://github.com/user-attachments/assets/5d1299c5-9be2-47c1-a13b-5197a9c74e43" />
 <img width="1067" height="707" alt="image" src="https://github.com/user-attachments/assets/97bdde47-165c-429c-9de0-ec939933202d" />
+
 -<a href="./A8 Gear.SLDPRT" download>Gear</a>
 
 
