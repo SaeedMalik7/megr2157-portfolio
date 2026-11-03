@@ -163,4 +163,4 @@ Next up, I made a quick assembly of all the parts together without the housing c
 
 ## Communicate
 ### Lessons Learned
-This was a thought assignment, probably the most challenging one to date. It was challenging as I have never really done anything related to Gears before, especially on this level. The process of calculating the correct gear sizes along with force and torque values for the gears was a new experiment. Overall I learned a lot about Gears and bearings and how they can work mesh to work together. This assignment took me around 9 hours to complete. Most of the time was spent calculating the values. 
+This was a tough assignment, probably the most challenging one to date. It was challenging as I have never really done anything related to Gears before, especially on this level. The process of calculating the correct gear sizes along with force and torque values for the gears was a new experiment. Overall I learned a lot about Gears and bearings and how they can work mesh to work together. This assignment took me around 9 hours to complete. Most of the time was spent calculating the values. 
