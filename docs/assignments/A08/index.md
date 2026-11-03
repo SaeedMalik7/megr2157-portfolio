@@ -65,12 +65,15 @@ The given Output Shaft calculations are below. The given shaft size was sufficie
   
 ### Journal Bearings Design
 
+Next up was calculating the Journal Bearings, I broke it into two categories, of input and output. I wrote the given knowns for both and then for the assumptions and the unknowns of all the required Forces, pressure, velocity and PV values. I also drew the Free body diagram and solved the equations after. 
 <img width="745" height="490" alt="image" src="https://github.com/user-attachments/assets/631456fc-4b1c-4d23-be47-76a1e4c3b5cf" />
 <img width="770" height="892" alt="image" src="https://github.com/user-attachments/assets/a118d646-b747-422c-b499-ef4a1b5c6dd6" />
 <img width="781" height="873" alt="image" src="https://github.com/user-attachments/assets/a4261411-72fb-4b28-8555-e1a61560eaf1" />
 <img width="820" height="232" alt="image" src="https://github.com/user-attachments/assets/ef0c6479-1089-4142-8d21-81deac91c514" />
 
 #### Calculations
+
+I wrote the calculated values below for both the input and output bearings.
 
 Input Bearing Summary
   0.1250 in x 0.1250 in
@@ -87,6 +90,9 @@ Output Bearing Summary
 -  PV 3066 psi fpm
 
 #### Material
+
+The material I chose was Porous Bronze after looking at Machinery's Handbook and comparing my values below. The Values of Porous Bronze mix well with what I require for these bearings. 
+
  Porous Bronze
 
 - Max Load - 4,500 psi
