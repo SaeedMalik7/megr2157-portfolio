@@ -122,6 +122,7 @@ Output Shaft
 -<a href="./Outputshaft6832K45.SLDPRT" download>Output Shaft</a>
 
 <img width="1467" height="942" alt="image" src="https://github.com/user-attachments/assets/695d7dff-d99f-42ae-857d-916ad9fb9fd3" />
+<img width="1342" height="885" alt="image" src="https://github.com/user-attachments/assets/5d1299c5-9be2-47c1-a13b-5197a9c74e43" />
 
 ## Communicate
 ### Lessons Learned
