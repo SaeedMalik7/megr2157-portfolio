@@ -94,10 +94,11 @@ Output Bearing Summary
 <img width="848" height="947" alt="image" src="https://github.com/user-attachments/assets/b3a106b5-bf79-4e1e-9034-0bf03c0bd3bb" />
 
 ## Decide
-### Mac Master
+### McMaster-Carr
 
 Input Shaft 
 <img width="1261" height="920" alt="image" src="https://github.com/user-attachments/assets/e9efca09-9b41-4c13-b123-149965317f60" />
+-<a href="./A7 Bracket.SLDPRT" download>Bracket</a>
 
 Output Shaft
 <img width="1242" height="916" alt="image" src="https://github.com/user-attachments/assets/84bdb359-3a1e-481b-9610-737a758cb449" />
