@@ -104,13 +104,14 @@ The material I chose was Porous Bronze after looking at Machinery's Handbook and
 
 ### Journal Bearing Thickness
 
-These are SAE 841 Oil-impregnated sintered bronze which is almost ideal to Porous Bronze, as these were the only ones valuables for the size I needed. 
-
+Lastly, I had to calculate the bearing thickness, which followed the same procedure as before of unknowns, knowns, free body diagrams and calculations. The calculated value was 0.257 in. 
 <img width="817" height="403" alt="image" src="https://github.com/user-attachments/assets/14f33749-74d7-461e-8c99-aa8188e23526" />
 <img width="848" height="947" alt="image" src="https://github.com/user-attachments/assets/b3a106b5-bf79-4e1e-9034-0bf03c0bd3bb" />
 
 ## Decide
 ### McMaster-Carr
+
+These are SAE 841 Oil-impregnated sintered bronze which is almost ideal to Porous Bronze, as these were the only ones valuables for the size I needed. 
 
 Input Bearing 
 <img width="1261" height="920" alt="image" src="https://github.com/user-attachments/assets/e9efca09-9b41-4c13-b123-149965317f60" />
@@ -120,10 +121,7 @@ Output Bearing
 <img width="1242" height="916" alt="image" src="https://github.com/user-attachments/assets/84bdb359-3a1e-481b-9610-737a758cb449" />
 -<a href="./Output936T13.SLDPRT" download>Output Bearing</a>
 
-### Sketch
-<img width="798" height="422" alt="image" src="https://github.com/user-attachments/assets/567db163-d692-496f-b117-8a2ebd57c34f" />
-
-### CAD
+Below are the chosen Input and output shafts 
 
 Input Shaft
 
@@ -137,15 +135,32 @@ Output Shaft
 
 -<a href="./Outputshaft6832K45.SLDPRT" download>Output Shaft</a>
 
+### Sketch
+
+I drew a rough idea sketch of what I wanted to make in CAD, the inspiration for this came from an automotive differential housing shape, that is why it is a elliptical shape because the two gears are different sizes, hence a rounded shape is not needed. I added bolt holes on the edges so that it can hold the housing together. 
+<img width="798" height="422" alt="image" src="https://github.com/user-attachments/assets/567db163-d692-496f-b117-8a2ebd57c34f" />
+
+### CAD
+
+First up are some of the equations I used, which were the housing size and bolt size.
+
 <img width="1302" height="817" alt="image" src="https://github.com/user-attachments/assets/ccab160c-c4d6-4698-be2e-4e59d61e2764" />
+
+Next up was drawing and extruding the base ellipse. 
 <img width="1802" height="982" alt="image" src="https://github.com/user-attachments/assets/ca4ac794-e1bb-4153-bdc0-5a1859213ca6" />
+
+Then I shelled it and I did not add a cover so that it is possible to see how the gears allign inside.
 <img width="1802" height="957" alt="image" src="https://github.com/user-attachments/assets/9cf54889-0547-48ee-b397-a9a0ccb57216" />
+
+Next up I drew a construction ellipse line, so that I could add the bolt holes. Unfortunatly I could not circular sketch pattern the bolts since it is an ellipse, so I had to do it individually. 
 <img width="1467" height="942" alt="image" src="https://github.com/user-attachments/assets/695d7dff-d99f-42ae-857d-916ad9fb9fd3" />
+
+Next up, I made a quick assembly of all the parts together without the housing cover so you can see what goes inside. The housing cover would just bolt to the front of the casing, enclosing the housing.
 <img width="1342" height="885" alt="image" src="https://github.com/user-attachments/assets/5d1299c5-9be2-47c1-a13b-5197a9c74e43" />
 <img width="1067" height="707" alt="image" src="https://github.com/user-attachments/assets/97bdde47-165c-429c-9de0-ec939933202d" />
 
 -<a href="./A8 Gear.SLDPRT" download>Gear</a>
 
-
 ## Communicate
 ### Lessons Learned
+This was a thought assignment, probably the most challenging one to date. It was challenging as I have never really done anything related to Gears before, especially on this level. The process of calculating the correct gear sizes along with force and torque values for the gears was a new experiment. Overall I learned a lot about Gears and bearings and how they can work mesh to work together. This assignment took me around 9 hours to complete. Most of the time was spent calculating the values. 
