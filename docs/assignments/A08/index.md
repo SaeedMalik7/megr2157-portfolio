@@ -110,9 +110,15 @@ Output Bearing
 ### CAD
 
 Input Shaft
+
+<img width="1262" height="932" alt="image" src="https://github.com/user-attachments/assets/48a0b6c1-f42e-4fab-b946-81e94319c3ce" />
+
 -<a href="./Inputshaft7880K19.SLDPRT" download>Input Shaft</a>
 
 Output Shaft
+
+<img width="1272" height="935" alt="image" src="https://github.com/user-attachments/assets/28661862-869e-4fe2-9731-db1cad4b4704" />
+
 -<a href="./Outputshaft6832K45.SLDPRT" download>Output Shaft</a>
 
 ## Communicate
