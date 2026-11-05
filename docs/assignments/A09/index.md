@@ -15,14 +15,15 @@ Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 
 <img width="952" height="366" alt="image" src="https://github.com/user-attachments/assets/f77f0476-da1e-4756-aa75-35a36f13eea5" />
 
 Resources:
-https://www.mcmaster.com/products/round-belts/round-belts-8/
-
+https://www.mcmaster.com/products/round-belts/
 
 ## Analyze
-
+### Calculating Diameter and Belt's Outer Circumference 
+### Minimum Diameter of Shaft
+### Designing Journal Bearing
 
 ## Decide
-
+### Designing a Frame
 
 ## Communicate
-
+### Lessons Learned
