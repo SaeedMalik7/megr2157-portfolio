@@ -19,6 +19,8 @@ https://www.mcmaster.com/products/round-belts/
 
 ## Analyze
 ### Calculating Diameter and Belt's Outer Circumference 
+<img width="1152" height="877" alt="image" src="https://github.com/user-attachments/assets/d43bc050-9989-436b-84da-bdebe210f967" />
+
 ### Minimum Diameter of Shaft
 ### Designing Journal Bearing
 
