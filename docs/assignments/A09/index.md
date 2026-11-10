@@ -45,3 +45,5 @@ https://www.mcmaster.com/products/round-belts/
 
 ## Communicate
 ### Lessons Learned
+
+-<a href="./A9 Notes.pdf" download>Notes</a>
