@@ -64,5 +64,5 @@ Next, I drew a quick sketch to design a frame cover for the belt. This is just a
 ## Communicate
 ### Lessons Learned
 
-In this assignment I learned how friction interacts with belts and how different materials have different impacts on the belt. I also learned how to design a belt that is connected by two bearings. This was a great assignment that took me around 5 hours. I have linked my notes below. 
+In this assignment I learned how friction interacts with belts and how different materials have different impacts on the belt. I also learned how to design a belt that is connected by two bearings. This was a great assignment that took me around 5 hours. I have linked my notes below. It was also a different expeircne to design a pulley with little to no load.
 -<a href="./A9 Notes.pdf" download>Notes</a>
