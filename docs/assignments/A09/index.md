@@ -25,7 +25,7 @@ These are the parameters that I chose to build my belt around from the given des
 
 ### Calculating Diameter and Belt's Outer Circumference 
 
-First up I had to calculate the forces on both the tight and loose side with no slippage, diameter of the belt using the normal stress equation and yield strength, along with calculating the belt's outer circumference then select a suitable belt. First up I listed all the known values and the unknown values. Then I numerically solved for tension and all other values. I also drew the FBD for pully.
+First up I had to calculate the forces on both the tight and loose side with no slippage, diameter of the belt using the normal stress equation and yield strength, along with calculating the belt's outer circumference then select a suitable belt. Then I listed all the known values and the unknown values. Then I numerically solved for tension and all other values. I also drew the FBD for pulley.
 
 <img width="985" height="506" alt="image" src="https://github.com/user-attachments/assets/1448aebd-779c-4828-a173-eb8da89dce31" />
 <img width="656" height="822" alt="image" src="https://github.com/user-attachments/assets/bf91a35c-28b1-4a05-8ee4-03517ff03a06" />
@@ -57,7 +57,7 @@ I started the same way with known, unknown and FBD. Then I solved for all of the
 ## Decide
 ### Designing a Frame
 
-Next, I drew a quick sketch to design a frame cover for the belt. This is just a standard cover that goes around both belts and protects them from debris. It is solid metal cover. 
+Next, I drew a quick sketch to design a frame cover for the belt. This is just a standard cover that goes around both belts and protects them from debris. It is solid metal cover. It includes a hole for a locking mechanism, allowing it to open and close securely. 
 
 <img width="702" height="340" alt="image" src="https://github.com/user-attachments/assets/23568896-c824-483a-9b97-8e92aa44d795" />
 
