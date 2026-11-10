@@ -16,11 +16,11 @@ Part 1 Scope of Work - Develop a lead-screw–driven crosshead
 
 Key Constraints
 
-No electronics, no software: purely mechanical.
-Load capacity: 2 kN (with appropriate safety factor in structure and drivetrain).
-Speed range: 1–50 mm/min (achieved via screw lead selection).
-Form factor: bench-top footprint favored; manageable overall height; 18 inch leadscrew minimum.
-Safety Factor: 4
+- No electronics, no software: purely mechanical.
+- Load capacity: 2 kN (with appropriate safety factor in structure and drivetrain).
+- Speed range: 1–50 mm/min (achieved via screw lead selection).
+- Form factor: bench-top footprint favored; manageable overall height; 18 inch leadscrew minimum.
+- Safety Factor: 4
 
 ## Analyze
 
