@@ -18,16 +18,26 @@ Resources:
 https://www.mcmaster.com/products/round-belts/
 
 ## Analyze
+
+These are the parameters that I chose to build my belt around from the given description. 
+
 <img width="990" height="681" alt="image" src="https://github.com/user-attachments/assets/12d4d89a-1359-416e-b771-79471d09ce4c" />
 
 ### Calculating Diameter and Belt's Outer Circumference 
 
+First up I had to calculate the forces on both the tight and loose side with no slippage, diameter of the belt using the normal stress equation and yield strength, along with calculating the belt's outer circumference then select a suitable belt. First up I listed all the known values and the unknown values. Then I numerically solved for tension and all other values. I also drew the FBD for pully.
+
 <img width="985" height="506" alt="image" src="https://github.com/user-attachments/assets/1448aebd-779c-4828-a173-eb8da89dce31" />
 <img width="656" height="822" alt="image" src="https://github.com/user-attachments/assets/bf91a35c-28b1-4a05-8ee4-03517ff03a06" />
 <img width="706" height="526" alt="image" src="https://github.com/user-attachments/assets/5eee7eec-ccd7-4950-a251-f60533fc010a" />
+
+Then I selected "3044K606" belt from Mc-McMaster Car, based upon my calculated values.
+
 <img width="1152" height="877" alt="image" src="https://github.com/user-attachments/assets/d43bc050-9989-436b-84da-bdebe210f967" />
 
 ### Minimum Diameter of Shaft
+
+Next up I had to determine the minimum diameter of the shaft by calculating minimum area when torque is applied to a shaft with 1060 hardened steel. I started out the same way with writing my known and unknown values. I drew the according FBD and torque max along with the min diameter. The min diameter was 0.1237 in^2, which I then rounded to .1250 in, which is 1/8 of an in.
 
 <img width="710" height="331" alt="image" src="https://github.com/user-attachments/assets/300ebf51-7c90-4566-b48f-e851ed4095b3" />
 <img width="761" height="912" alt="image" src="https://github.com/user-attachments/assets/f561d9db-f64b-4506-981b-fdc63018bb19" />
@@ -35,15 +45,24 @@ https://www.mcmaster.com/products/round-belts/
 
 ### Designing Journal Bearing
 
+Lastly, I had to use the following table from page 2440 in the Machinery’s Hand Book to  determine the pressure, linear velocity, PV rating and selecting a suitable material.  
+<img width="638" height="393" alt="image" src="https://github.com/user-attachments/assets/1facd937-0908-4e58-a7a8-dbf9f4204cc0" />
+
+I started the same way with known, unknown and FBD. Then I solved for all of the values and selected Porous Bronze. Porous Bronze works best for my situation and as seen below it allows for our shaft to exist. 
+
 <img width="737" height="367" alt="image" src="https://github.com/user-attachments/assets/54a870e6-2cf5-4a0c-84bc-c020ac5ec461" />
 <img width="741" height="902" alt="image" src="https://github.com/user-attachments/assets/1e1bd4a2-7ef8-4da2-bc7e-169268c383c9" />
 <img width="716" height="317" alt="image" src="https://github.com/user-attachments/assets/a88de80e-4d17-44eb-bdc6-d35c37c16072" />
 
 ## Decide
 ### Designing a Frame
+
+Next, I drew a quick sketch to design a frame cover for the belt. This is just a standard cover that goes around both belts and protects them from debris. It is solid metal cover. 
+
 <img width="702" height="340" alt="image" src="https://github.com/user-attachments/assets/23568896-c824-483a-9b97-8e92aa44d795" />
 
 ## Communicate
 ### Lessons Learned
 
+In this assignment I learned how friction interacts with belts and how different materials have different impacts on the belt. I also learned how to design a belt that is connected by two bearings. This was a great assignment that took me around 5 hours. I have linked my notes below. 
 -<a href="./A9 Notes.pdf" download>Notes</a>
