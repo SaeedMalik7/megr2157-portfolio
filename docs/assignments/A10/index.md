@@ -100,7 +100,7 @@ In doing so, we get a minimum value of 0.315 rpm and a maximum value of 15.748 r
 Above shows the list of all parameters we know, calculated, assumed, and missing. We assumed a coefficient of friction to be 0.16 based on the 2 mating materials being hard carbon on carbon; this also helps determine the max torque needed, as it provides a worst-case scenario, assuming no lubrication and pure metal-to-metal contact.
 
 
-### Solving for Tmax:
+### Solving for Tmax (Sebastian Mateus):
 <img width="492" height="199" alt="image" src="https://github.com/user-attachments/assets/81933469-5f3f-4478-ad1b-47d88d030c10" />
 
 
@@ -122,7 +122,7 @@ Pitch radius of screw can be found by taking the average pitch diameter of both 
 Substituting our variables in for eq 1 and setting the left side equal to torque, we get Tmax equal to 10.05 in-lbf per screw. This causes the total maximum torque for both screws to be 20.1 in-lbf.
 
 
-## Leadscrew Selection :
+## Leadscrew Selection (Sebastian Mateus) :
 
 
 After calculating the theoretical minimum minor diameter of 0.107 inches, I decided to increase the overall dimensions to make sure the leadscrew is readily available through standardized diameters. Since the initial assumption of the leadscrew load being only axial, in real-world application, leadscrews experience different types of loads; given the FOS value of 4, I decided to have a 3/8-inch lead screw (which has a minor diameter of 0.265 inches). Then, given my design assumptions of no column buckling, the big increase in solid material makes sense within the context of the tensile tester. The 3/8-inch lead screw also keeps the safety factor of 4 throughout the 18-inch span, without resorting to unnecessarily heavy and costly material. Additionally, with 42% forward drive efficiency and a lead of 0.125 in/rev, the maximum torque of the motor remains low, at 20.1 in-lbs, in the range of 0.315 to 15.75 RPM. Overall, due to the thread profile providing more solid material to sustain the loads, this results in a better strength-to-weight relationship.
@@ -173,7 +173,7 @@ After calculating the theoretical minimum minor diameter of 0.107 inches, I deci
   <li>13/32" thickness</li>
 </ul>
 
-## Designing the Crosshead (Sanjay Kashyap
+## Designing the Crosshead (Sanjay Kashyap)
 
 ### Known and Unknown
 
@@ -242,7 +242,7 @@ I chose the center of center distance of 9 because half the 18 in screw length, 
   </li>
 </ul>
 
-### Free Body Diagram
+### Free Body Diagram (Sanjay Kashyap)
 
 Below is a free body diagram of the flange. The dashed lines represent where the lead screw sits.
 
@@ -250,7 +250,7 @@ Below is a free body diagram of the flange. The dashed lines represent where the
   <img src="FlangeFreeBodyDiagram.jpg" alt="FlangeFreeBodyDiagram">
 </div>
 
-### Strength Analysis of Crosshead Height
+### Strength Analysis of Crosshead Height (Sanjay Kashyap)
 
 Below are my calculations for the minimum height of the flange based off of the maximum stress allowed. The crosshead is loaded transversely, so the bending stress governs. Axial stress is negligible and is carried by the lead screws (See the lead screw diameter analysis). During these calculations I accidentally switched from using a lowercase "b" to capital "B" however they both represent the flange width.
 
@@ -258,7 +258,7 @@ Below are my calculations for the minimum height of the flange based off of the 
   <img src="FlangeHeightBasedStress.jpeg" alt="FlangeHeightBasedStress">
 </div>
 
-### Deflection Analysis of Crosshead Height
+### Deflection Analysis of Crosshead Height (Sanjay Kashyap)
 
 Below are my calculations for the minimum height of the flange based off of the maximum deflection allowed. During these calculations I accidentally switched from using a lowercase "b" to capital "B" however they both represent the flange width.
 
@@ -266,7 +266,7 @@ Below are my calculations for the minimum height of the flange based off of the 
   <img src="FlangeHeightBasedDeflection1.jpeg" alt="FlangeHeightBasedDeflection1">
 </div>
 
-### Final Height Decision
+### Final Height Decision (Sanjay Kashyap)
 
 The minimum height required based on deflection was higher than minimum height required by stress, meaning the height calculated from deflection will be the height used. The calculated minimum was 26 mm (1.02 in). 1.0 in stock gives δ = 0.104 mm which exceeds the 0.1 mm limit, so the next standard thickness, 1.25 in, was selected.
 
@@ -282,5 +282,8 @@ H = 1.25 in
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
+## Tabulating Costs (Saeed Malik)
+## Parametric Modeling (Saeed Malik)
 ## Communicate
+### Lessons Learned 
 
