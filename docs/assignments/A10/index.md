@@ -147,7 +147,7 @@ After calculating the theoretical minimum minor diameter of 0.107 inches, I deci
   I have chosen Bronze Nut: 95072A124<br>
   <a href="https://www.mcmaster.com/products/lead-screw-nuts/thread-size~3-8-8/">https://www.mcmaster.com/products/lead-screw-nuts/thread-size~3-8-8/</a>
 </p>
-  <img src="A10/95072A124_Precision Acme Externally Threaded Nut.pdf" alt="Bronze Nut">
+<img width="1136" height="862" alt="image" src="https://github.com/user-attachments/assets/53be2db6-5d68-451b-bb91-662b255c21a9" />
 
 <p>Below are the specifications of Bronze Nut: 95072A124</p>
 
@@ -163,7 +163,7 @@ After calculating the theoretical minimum minor diameter of 0.107 inches, I deci
   I have chosen Flange: 95082A641<br>
   <a href="https://www.mcmaster.com/products/nuts/thread-size~3-8-8/">https://www.mcmaster.com/products/nuts/thread-size~3-8-8/</a>
 </p>
- <img src="A10/95082A641_Precision Acme Flange.pdf" alt="Flange">
+<img width="1132" height="861" alt="image" src="https://github.com/user-attachments/assets/dc87c609-81be-4df6-9ac6-0f10296e6217" />
  
 <p>Below are the specifications of Flange: 95082A641</p>
 
