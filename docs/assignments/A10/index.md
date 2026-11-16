@@ -131,6 +131,51 @@ Substituting our variables in for eq 1 and setting the left side equal to torque
 
 After calculating the theoretical minimum minor diameter of 0.107 inches, I decided to increase the overall dimensions to make sure the leadscrew is readily available through standardized diameters. Since the initial assumption of the leadscrew load being only axial, in real-world application, leadscrews experience different types of loads; given the FOS value of 4, I decided to have a 3/8-inch lead screw (which has a minor diameter of 0.265 inches). Then, given my design assumptions of no column buckling, the big increase in solid material makes sense within the context of the tensile tester. The 3/8-inch lead screw also keeps the safety factor of 4 throughout the 18-inch span, without resorting to unnecessarily heavy and costly material. Additionally, with 42% forward drive efficiency and a lead of 0.125 in/rev, the maximum torque of the motor remains low, at 20.1 in-lbs, in the range of 0.315 to 15.75 RPM. Overall, due to the thread profile providing more solid material to sustain the loads, this results in a better strength-to-weight relationship.
 
+## Designing Nut and Flange (Saeed Malik)
+
+### Starting Selection (Sanjay Kashyap)
+
+<p>My teammate's lead screw selection is:</p>
+
+<ul>
+  <li>Thread type: Acme</li>
+  <li>Nominal diameter: 3/8 in</li>
+  <li>Thread: 8 TPI</li>
+  <li>Lead: 0.125 in/rev</li>
+  <li>Two identical lead screws</li>
+  <li>Maximum tensile load: 2,000 N</li>
+  <li>Safety factor: 4</li>
+</ul>
+
+<p>
+  I have chosen Bronze Nut: 95072A124<br>
+  <a href="https://www.mcmaster.com/products/lead-screw-nuts/thread-size~3-8-8/">https://www.mcmaster.com/products/lead-screw-nuts/thread-size~3-8-8/</a>
+</p>
+
+<p>Below are the specifications of Bronze Nut: 95072A124</p>
+
+<ul>
+  <li>673 bronze</li>
+  <li>3/8"-8 Stub Acme</li>
+  <li>Single start, 0.125" lead</li>
+  <li>5/8" nut length</li>
+  <li>9/16"-18 external thread</li>
+</ul>
+
+<p>
+  I have chosen Flange: 95082A641<br>
+  <a href="https://www.mcmaster.com/products/nuts/thread-size~3-8-8/">https://www.mcmaster.com/products/nuts/thread-size~3-8-8/</a>
+</p>
+
+<p>Below are the specifications of Flange: 95082A641</p>
+
+<ul>
+  <li>9/16"-18 internal thread</li>
+  <li>1 39/64" outside diameter</li>
+  <li>13/32" thickness</li>
+</ul>
+
+
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
