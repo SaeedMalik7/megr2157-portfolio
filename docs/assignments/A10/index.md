@@ -127,6 +127,8 @@ Substituting our variables in for eq 1 and setting the left side equal to torque
 
 After calculating the theoretical minimum minor diameter of 0.107 inches, I decided to increase the overall dimensions to make sure the leadscrew is readily available through standardized diameters. Since the initial assumption of the leadscrew load being only axial, in real-world application, leadscrews experience different types of loads; given the FOS value of 4, I decided to have a 3/8-inch lead screw (which has a minor diameter of 0.265 inches). Then, given my design assumptions of no column buckling, the big increase in solid material makes sense within the context of the tensile tester. The 3/8-inch lead screw also keeps the safety factor of 4 throughout the 18-inch span, without resorting to unnecessarily heavy and costly material. Additionally, with 42% forward drive efficiency and a lead of 0.125 in/rev, the maximum torque of the motor remains low, at 20.1 in-lbs, in the range of 0.315 to 15.75 RPM. Overall, due to the thread profile providing more solid material to sustain the loads, this results in a better strength-to-weight relationship.
 
+<img width="1151" height="880" alt="image" src="https://github.com/user-attachments/assets/10e43c8d-69f5-4d31-a257-6e411a8fd58e" />
+
 ## Designing Nut and Flange (Saeed Malik)
 ### Knowns
 <img width="2032" height="2580" alt="image" src="https://github.com/user-attachments/assets/7650290c-450f-40b0-b344-cf2603b5853e" />
@@ -291,12 +293,16 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 ## Tabulating Costs (Saeed Malik)
 
+
+## Material Cost Analysis
+
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 |:---|:---:|:---|---:|---:|:---|
 | 804T48 | 1 | 40 Series T-Slot Aluminum Frame, 40 × 80 mm, 3 m | $264.97 | $264.97 | [Grainger](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
-| 95082A641 | 2 | Lead Screw Nut Flange | $37.06 | $74.12 | [McMaster-Carr](https://www.mcmaster.com/products/95082a641/) |
-| 95072A124 | 2 | 673 Bronze Stub Acme Nut, 3/8"-8 | $28.72 | $57.44 | [McMaster-Carr](https://www.mcmaster.com/products/95072a124/) |
-| | | **Total Cost** | | **$396.53** | |
+| 95082A641 | 2 | Lead Screw Nut Flange | $37.06 | $74.12 | [McMaster-Carr](https://www.mcmaster.com/products/nuts/thread-size~3-8-8/) |
+| 95072A124 | 2 | 673 Bronze Stub Acme Nut, 3/8"-8 | $28.72 | $57.44 | [McMaster-Carr](https://www.mcmaster.com/products/lead-screw-nuts/thread-size~3-8-8/) |
+| 989404A60 | 2 | 4140 Alloy Steel Stub Acme Lead Screw | $34.73 | $69.46 | [McMaster-Carr](https://www.mcmaster.com/products/98940a605/) |
+| | | **Total Cost** | | **$465.99** | |
 
 ### Frame
 <img width="1081" height="795" alt="image" src="https://github.com/user-attachments/assets/852babf0-dcc5-4f04-add0-bb6a57d5e2df" />
