@@ -290,6 +290,18 @@ H = 1.25 in
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
 ## Tabulating Costs (Saeed Malik)
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+|:---|:---:|:---|---:|---:|:---|
+| 804T48 | 1 | 40 Series T-Slot Aluminum Frame, 40 × 80 mm, 3 m | $264.97 | $264.97 | [Grainger](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
+| 95082A641 | 2 | Lead Screw Nut Flange | $37.06 | $74.12 | [McMaster-Carr](https://www.mcmaster.com/products/nuts/thread-size~3-8-8/) |
+| 95072A124 | 2 | 673 Bronze Stub Acme Nut, 3/8"-8 | $28.72 | $57.44 | [McMaster-Carr](https://www.mcmaster.com/products/lead-screw-nuts/thread-size~3-8-8/) |
+| | | **Total Cost** | | **$396.53** | |
+
+### Frame
+<img width="1081" height="795" alt="image" src="https://github.com/user-attachments/assets/852babf0-dcc5-4f04-add0-bb6a57d5e2df" />
+
+
 ## Parametric Modeling (Saeed Malik)
 ## Communicate
 ### Lessons Learned 
