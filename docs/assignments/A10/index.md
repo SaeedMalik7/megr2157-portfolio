@@ -42,8 +42,7 @@ The assumption for determining the minimum diameter is based on having the lead 
 
 In the second picture, eq 1 shows the axial load formula connected to the yield and FOS values. Setting both equations equal to each other allows us to isolate and expand the cross-sectional area (A) and solve for diameter_min (eq 2). In doing so, diameter_min equals 0.107 inches.
 ### Sizing up minor diameter:
-![a10_3](a10_3.png)
-
+<img width="1290" height="688" alt="image" src="https://github.com/user-attachments/assets/e3fa688f-f986-4302-a99b-71fdd5d48afd" />
 
 As shown above, the table allows a selection of lead screws. From our calculated values, we decided to select the 3/8 - 8 STUB lead screw.
 Key specifications of this lead screw include:
@@ -74,14 +73,13 @@ Overall, the selection provides a very robust and efficient use of thread geomet
 
 ## Solving for Range of Rotational Speed (w):
 ### Knowns and Unknowns:
-![a10_w4](a10_w4.png)
-
+<img width="720" height="493" alt="image" src="https://github.com/user-attachments/assets/41984019-3bf8-4105-8d1f-2db661877069" />
 
 The above shows the knowns and unknowns based on the given and calculated values.
 
 
 ### Solving for (w) speed range:
-![a10_w5](a10_w5.png)
+<img width="586" height="217" alt="image" src="https://github.com/user-attachments/assets/83b33c73-e304-4afe-b58f-e6651a283f81" />
 
 
 ![a10_w6](a10_w6.png)
@@ -95,23 +93,22 @@ In doing so, we get a minimum value of 0.315 rpm and a maximum value of 15.748 r
 
 ## Determining Max Torque (Tmax):
 ### Knowns and Unknowns:
-![a10_w7](a10_w7.png)
+<img width="526" height="493" alt="image" src="https://github.com/user-attachments/assets/8c16f781-2b9e-4986-aee2-a19ea0191dec" />
 
-
-![a10_4](a10_4.png)
+<img width="819" height="420" alt="image" src="https://github.com/user-attachments/assets/2fa2e128-141a-429a-9a9a-bd5106856336" />
 
 
 Above shows the list of all parameters we know, calculated, assumed, and missing. We assumed a coefficient of friction to be 0.16 based on the 2 mating materials being hard carbon on carbon; this also helps determine the max torque needed, as it provides a worst-case scenario, assuming no lubrication and pure metal-to-metal contact.
 
 
 ### Solving for Tmax:
-![a10_w8](a10_w8.png)
+<img width="492" height="199" alt="image" src="https://github.com/user-attachments/assets/81933469-5f3f-4478-ad1b-47d88d030c10" />
 
 
-![a10_w9](a10_w9.png)
+<img width="516" height="262" alt="image" src="https://github.com/user-attachments/assets/24091f81-5c26-47da-a638-80ad2bd5df9f" />
 
 
-![a10_w10](a10_w10.png)
+<img width="445" height="172" alt="image" src="https://github.com/user-attachments/assets/6836f75b-417a-40f4-b0c6-d06a022d482d" />
 
 
 Based on the FBD above, the lead screw experiences half of the total crosshead load in compression, based on the crosshead being elevated and the reaction force of the material pushing back downward, which is transmitted to the leadscrew. Then there is the torque being transmitted by the motor to the leadscrew.
