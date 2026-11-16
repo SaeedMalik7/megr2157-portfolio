@@ -1,6 +1,8 @@
 # A10 – Lead Screw Translating System
 
 ## Objective
+
+This a group project, everyone's names is included in the portion they completed. 
 Description:
 A tensile tester is a mechanical testing device used to measure how materials respond to uniaxial tension. It applies a controlled pulling force to a specimen while recording the resulting elongation, allowing engineers to determine properties such as yield strength, ultimate tensile strength, and elongation at break. This data is essential for understanding a material’s mechanical behavior and suitability for design applications.
 
@@ -22,11 +24,11 @@ Key Constraints
 - Form factor: bench-top footprint favored; manageable overall height; 18 inch leadscrew minimum.
 - Safety Factor: 4
 
-## Analyze
+## Analyze (Sebastian Mateus)
 <img width="1024" height="468" alt="image" src="https://github.com/user-attachments/assets/e2739a64-6587-4648-a3ea-6987a5405a0a" />
 The medium carbon steel has a maximum average yield strength of 684 MPa (Matweb) and can easily handle the crosshead loading of 2 kN while providing a safety factor (FOS) of 4. The hardness and stiffness of the material will not allow any kind of wear to occur due to friction, and it will not bend the screw due to its 18 inches long span. In addition to all of that, it is readily available and is very cheap compared to other alloys or stainless steels.
 
-## Solving for the minimum diameter (axial loading):
+## Solving for the minimum diameter (axial loading) (Sebastian Mateus):
 ### Knowns and Unknowns:
 <img width="750" height="639" alt="image" src="https://github.com/user-attachments/assets/3c543114-bc9c-4b13-b313-55316bbe7cb9" />
 
@@ -71,7 +73,7 @@ Screw Weight = 0.280 lb/ft (.42lbs per screw)
 Overall, the selection provides a very robust and efficient use of thread geometry.
 
 
-## Solving for Range of Rotational Speed (w):
+## Solving for Range of Rotational Speed (w) (Sebastian Mateus):
 ### Knowns and Unknowns:
 <img width="720" height="493" alt="image" src="https://github.com/user-attachments/assets/41984019-3bf8-4105-8d1f-2db661877069" />
 
@@ -82,16 +84,13 @@ The above shows the knowns and unknowns based on the given and calculated values
 <img width="586" height="217" alt="image" src="https://github.com/user-attachments/assets/83b33c73-e304-4afe-b58f-e6651a283f81" />
 
 
-![a10_w6](a10_w6.png)
-
-
 Based on the general equation relating linear velocity to rotational speed through the lead/thread start (eq 1). Eq.1 allows us to get the required units of RPM, and using both ends of the given linear speed range, we can translate it to a range of rotational speeds.
 
 
 In doing so, we get a minimum value of 0.315 rpm and a maximum value of 15.748 rpm. This range allows us to determine the motor.
 
 
-## Determining Max Torque (Tmax):
+## Determining Max Torque (Tmax) (Sebastian Mateus):
 ### Knowns and Unknowns:
 <img width="526" height="493" alt="image" src="https://github.com/user-attachments/assets/8c16f781-2b9e-4986-aee2-a19ea0191dec" />
 
@@ -123,7 +122,7 @@ Pitch radius of screw can be found by taking the average pitch diameter of both 
 Substituting our variables in for eq 1 and setting the left side equal to torque, we get Tmax equal to 10.05 in-lbf per screw. This causes the total maximum torque for both screws to be 20.1 in-lbf.
 
 
-## Leadscrew Selection:
+## Leadscrew Selection :
 
 
 After calculating the theoretical minimum minor diameter of 0.107 inches, I decided to increase the overall dimensions to make sure the leadscrew is readily available through standardized diameters. Since the initial assumption of the leadscrew load being only axial, in real-world application, leadscrews experience different types of loads; given the FOS value of 4, I decided to have a 3/8-inch lead screw (which has a minor diameter of 0.265 inches). Then, given my design assumptions of no column buckling, the big increase in solid material makes sense within the context of the tensile tester. The 3/8-inch lead screw also keeps the safety factor of 4 throughout the 18-inch span, without resorting to unnecessarily heavy and costly material. Additionally, with 42% forward drive efficiency and a lead of 0.125 in/rev, the maximum torque of the motor remains low, at 20.1 in-lbs, in the range of 0.315 to 15.75 RPM. Overall, due to the thread profile providing more solid material to sustain the loads, this results in a better strength-to-weight relationship.
