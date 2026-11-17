@@ -365,17 +365,18 @@ This was the final CAD assembly with all of our lead screws, nuts, flanges, fram
 
 ## Communicate
 ### CAD Link
--<a href=".A10/8020-1530 X 12.SLDPRT" download>Frame</a>
 
--<a href="99030A986_1018 Carbon Steel Precision Acme Lead Screw.SLDPRT" download>Lead Screw</a>
+-<a href=".8020-1530 X 12.SLDPRT" download>Frame</a>
 
--<a href=".A10 Cross Head.SLDPRT" download>Cross Head</a>
+-<a href=".95072A124_Precision Acme Externally Threaded Nut.SLDPRT" download>Nut</a>
 
 -<a href=".95082A641_Precision Acme Flange.SLDPRT" download>Flange</a>
 
--<a href=".95072A124_Precision Acme Externally Threaded Nut.SLDPRT" download>Threaded Nut</a>
+-<a href=".99030A986_1018 Carbon Steel Precision Acme Lead Screw.SLDPRT" download>Lead Screw</a>
 
--<a href=".Assem1 A10.SLDASM" download>Final Assembly</a>
+-<a href=".A10 Cross Head.SLDPRT" download>Cross Head</a>
+
+-<a href=".Assem1.SLDASM" download>Final Assembly</a>
 
 ### Lessons Learned 
 This was a challenging but engaging assignment. It taught me to how calculate values for nuts and how to then use those values to build a machine. Although the greatest challenge came while assembling the project. I initially wanted to use the hole wizard in our cross thread, so that I could do the counter bore and hole in one go for both holes. I needed to do some additional calculations for this and I did them, they are not pictured because they were not right or I did not use the numbers correctly. I tried many times to use the hole wizard and even got it to work once but it was not the size we needed, so I just did it the normal way. Secondly, the assembly took so long because of needing the screw patterns the match up and mesh together so they could rotate. Along with the making the nut and flange in the cross head. A lot of assemblies broke naturally but I eventually figured it out. It took each of us roughly 4-5 hours to complete our own respective parts, which puts the total time at 15 hours. 
