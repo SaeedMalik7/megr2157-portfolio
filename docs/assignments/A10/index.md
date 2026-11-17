@@ -323,10 +323,16 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 ## Communicate
 ### CAD Link
 -<a href=".A10/8020-1530 X 12.SLDPRT" download>Frame</a>
+
 -<a href="99030A986_1018 Carbon Steel Precision Acme Lead Screw.SLDPRT" download>Lead Screw</a>
+
 -<a href=".A10 Cross Head.SLDPRT" download>Cross Head</a>
+
 -<a href=".95082A641_Precision Acme Flange.SLDPRT" download>Flange</a>
+
 -<a href=".95072A124_Precision Acme Externally Threaded Nut.SLDPRT" download>Threaded Nut</a>
+
 -<a href=".Assem1 A10.SLDASM" download>Final Assembly</a>
+
 ### Lessons Learned 
 
