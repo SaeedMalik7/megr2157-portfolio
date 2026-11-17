@@ -322,6 +322,9 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 ## Communicate
 ### CAD Link
--<a href="./Beam.SLDPRT" download>Truss Beam</a>
+-<a href=".A10/8020-1530 X 12.SLDPRT" download>Frame</a>
+-<a href="99030A986_1018 Carbon Steel Precision Acme Lead Screw.SLDPRT" download>Frame</a>
+-<a href=".A10 Cross Head.SLDPRT" download>Frame</a>
+-<a href=".A10/8020-1530 X 12.SLDPRT" download>Frame</a>
 ### Lessons Learned 
 
