@@ -321,5 +321,7 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 <img width="1913" height="992" alt="image" src="https://github.com/user-attachments/assets/5a585d3d-7559-4b0b-810a-a92ba47e6981" />
 
 ## Communicate
+### CAD Link
+-<a href="./Beam.SLDPRT" download>Truss Beam</a>
 ### Lessons Learned 
 
