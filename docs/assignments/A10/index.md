@@ -2,7 +2,8 @@
 
 ## Objective
 
-This a group project, everyone's names is included in the portion they completed. 
+This a group project, everyone's names is included in the portion they completed. The group members are Saeed Malik, Sebastian Mateus and Sanjay Kashyap.
+
 Description:
 A tensile tester is a mechanical testing device used to measure how materials respond to uniaxial tension. It applies a controlled pulling force to a specimen while recording the resulting elongation, allowing engineers to determine properties such as yield strength, ultimate tensile strength, and elongation at break. This data is essential for understanding a material’s mechanical behavior and suitability for design applications.
 
@@ -130,11 +131,23 @@ After calculating the theoretical minimum minor diameter of 0.107 inches, I deci
 <img width="1148" height="876" alt="image" src="https://github.com/user-attachments/assets/0cf23583-c8e3-48d7-979d-634af8feb779" />
 
 ## Designing Nut and Flange (Saeed Malik)
+
+I had to analyze the internal threads of the nut to then select a proper bronze nut/flange. 
+
 ### Knowns
+
+Firstly, I started with the known values I had. These were total Force, lead screw count, safety factor, individual force value, diameter, thread pitch and length. At the top of the page are the nut and flanges I selected after finding all the necessary values. 
+
 <img width="2032" height="2580" alt="image" src="https://github.com/user-attachments/assets/7650290c-450f-40b0-b344-cf2603b5853e" />
 ### Unkowns
+
+Next up was writing down all of our unknown values, along with a Free body diagram of our part with dimensions labeled. 
+
 <img width="1780" height="2320" alt="image" src="https://github.com/user-attachments/assets/fe0db286-6c62-411b-b0aa-ec5be1c947fa" />
 ### Equations
+
+Lastly, I algebraically and then numerically solved for bending stress, allowable stress and Force values. These values then allowed me to make the selections previously listed.
+
 <img width="1872" height="2424" alt="image" src="https://github.com/user-attachments/assets/b1010c96-62f5-4058-8011-db7e2b4b306a" />
 <img width="1824" height="2324" alt="image" src="https://github.com/user-attachments/assets/fdeafb4f-4ad5-4c86-94a7-6ef7c0e96163" />
 
