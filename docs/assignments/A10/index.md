@@ -317,6 +317,9 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 <img width="1806" height="968" alt="image" src="https://github.com/user-attachments/assets/4ef9c1b1-4634-4aa1-bb43-db062ea98ef7" />
 <img width="1407" height="942" alt="image" src="https://github.com/user-attachments/assets/f798aa42-29a3-482b-9d22-542c0d0123aa" />
 
+### Final Assembly 
+<img width="1913" height="992" alt="image" src="https://github.com/user-attachments/assets/5a585d3d-7559-4b0b-810a-a92ba47e6981" />
+
 ## Communicate
 ### Lessons Learned 
 
