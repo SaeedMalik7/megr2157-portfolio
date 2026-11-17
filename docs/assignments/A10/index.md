@@ -309,6 +309,14 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 
 ## Parametric Modeling (Saeed Malik)
+<img width="1312" height="828" alt="image" src="https://github.com/user-attachments/assets/f99f2996-55eb-4c76-ae48-4033c7c4f80b" />
+<img width="1787" height="951" alt="image" src="https://github.com/user-attachments/assets/7e5a578a-5ea5-426f-8181-b52d7df55913" />
+<img width="1872" height="998" alt="image" src="https://github.com/user-attachments/assets/f18164b4-41cd-4600-9ee8-7d385e468af1" />
+<img width="1805" height="995" alt="image" src="https://github.com/user-attachments/assets/7cafddb7-ac09-4e58-a5cd-b745e6bd338a" />
+<img width="1797" height="962" alt="image" src="https://github.com/user-attachments/assets/17e0dd50-79e0-438e-974b-399bff2b9f77" />
+<img width="1806" height="968" alt="image" src="https://github.com/user-attachments/assets/4ef9c1b1-4634-4aa1-bb43-db062ea98ef7" />
+<img width="1407" height="942" alt="image" src="https://github.com/user-attachments/assets/f798aa42-29a3-482b-9d22-542c0d0123aa" />
+
 ## Communicate
 ### Lessons Learned 
 
