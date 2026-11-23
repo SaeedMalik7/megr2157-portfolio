@@ -334,9 +334,16 @@ I also decided to redesign the overall frame, include my parts in it, and ensure
 
 
 ## Analyze
-
+### Analyze and Design a Frame
+### T Slot Framing (Saeed Malik)
+### Top Frame FEA 40 Series (Sanjay Kashyap)
+### Vertical Components FEA 40 Series (Sanjay Kashyap)
 
 ## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+
+### Design Floating Bearing Mount (Saeed Malik)
+
+### Bill of Materials and Labor Cost (Saeed Malik)
 
 ## Communicate
+### Lessons Learned
