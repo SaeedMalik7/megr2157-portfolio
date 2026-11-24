@@ -336,8 +336,13 @@ I also decided to redesign the overall frame, include my parts in it, and ensure
 ## Analyze
 ### Analyze and Design a Frame
 ### T Slot Framing (Saeed Malik)
-## Top Frame FEA (Sanjay Kashyap)
 
+<img width="795" height="975" alt="image" src="https://github.com/user-attachments/assets/d03de222-9592-4f6f-9860-80c9946829f8" />
+<img width="805" height="972" alt="image" src="https://github.com/user-attachments/assets/355d620b-2a87-43ec-a577-442f25d6f48b" />
+<img width="797" height="916" alt="image" src="https://github.com/user-attachments/assets/aa976666-2204-4b16-a4e7-191eb87d574e" />
+<img width="757" height="872" alt="image" src="https://github.com/user-attachments/assets/4c385b82-0020-47b4-9c56-40c6902c73a9" />
+
+## Top Frame FEA (Sanjay Kashyap)
 
 ### Setting Up the FEA
 
@@ -661,4 +666,9 @@ I believe it would be beneficial to add triangular gusset reinforcements to each
 ### Bill of Materials and Labor Cost (Saeed Malik)
 
 ## Communicate
+
+I have linked below the zip file, which includes all of our individual parts and the final assembly for this project.
+
+- <a href="./final a11.zip" download>Zip File</a>
+
 ### Lessons Learned
