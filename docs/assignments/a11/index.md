@@ -732,7 +732,7 @@ Here are the material properties used for the floating bearing mount.
 <img width="1425" height="649" alt="image" src="https://github.com/user-attachments/assets/f1985f52-a541-458c-8212-2d64aedd2cc4" />
 <img width="1918" height="804" alt="image" src="https://github.com/user-attachments/assets/efac70d6-dfee-4779-ad27-87b7f68d4ea7" />
 
-<img width="1918" height="804" alt="image" src="https://github.com/user-attachments/assets/3cb9e8ea-da49-40c6-8249-b381eb5c8328" />
+<img width="1918" height="813" alt="image" src="https://github.com/user-attachments/assets/09069cdc-5447-4afc-a9f1-0a0ec524b0a5" />
 
 <img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/2546282f-4c9f-48cd-b256-d9c481e364f0" />
 
@@ -777,16 +777,19 @@ In case the ZIP file on the assembly exceeds the GitHub allowable space. Below i
 
 ### Bill of Materials and Labor Cost (Saeed Malik)
 
+
 | **Item Number** | **Quantity** | **Name**                                           | **Cost/Item** | **Cost** | **Purchase Link** |
 | :-------------: | :----------: | :------------------------------------------------- | ------------: | -------: | :--------------- |
 | 1530            | 5            | 1.50” X 3.00” T-Slotted Profile - Six Open T-Slots | $25.51        | $127.55  | [80/20](https://8020.net/1530.html) |
 | 95082A641       | 2            | Lead Screw Nut Flange                              | $37.06        | $74.12   | [McMaster-Carr](https://www.mcmaster.com/products/nuts/thread-size~3-8-8/) |
 | 95072A124       | 2            | 673 Bronze Stub Acme Nut, 3/8"-8                   | $28.72        | $57.44   | [McMaster-Carr](https://www.mcmaster.com/products/lead-screw-nuts/thread-size~3-8-8/) |
 | 99030A986       | 2            | 1018 Carbon Steel Precision Acme Lead Screw        | $11.40        | $22.80   | [McMaster-Carr](https://www.mcmaster.com/99030A986/) |
-| 91290A222      | 40           | M8 Black-Oxide Alloy Steel Socket Head Screws      | $0.28         | $11.20   | [McMaster-Carr](https://www.mcmaster.com/91290A222/) |
-| 29PA18          | 8            | 80/20 L-Bracket, 10 Series                          | $14.44        | $115.52  | |
-| 29PA14          | 4            | 80/20 Slotted Inside-Corner Bracket                 | $10.92        | $43.68   | |
-|                 |              | **Total Cost**                                     |               | **$452.31** | |
+| 91290A222       | 40           | M8 Black-Oxide Alloy Steel Socket Head Screws      | $0.28         | $11.20   | [McMaster-Carr](https://www.mcmaster.com/products/91290a222/) |
+| 29PA18          | 8            | 80/20 L-Bracket, 10 Series                          | $14.44        | $115.52  | [Grainger](https://www.grainger.com/product/80-20-L-Flat-Plate-L-Flat-Plate-29PA18) |
+| 29PA14          | 4            | 80/20 Slotted Inside-Corner Bracket                 | $10.92        | $43.68   | [Grainger](https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Slotted-29PA14) |
+| 91290A222      | 16           | M5 x 0.8 mm Thread Screw                           | $0.13         | $2.08    | [McMaster-Carr](https://www.mcmaster.com/products/91290a222/) |
+|                 |              | **Total Cost**                                     |               | **$454.39** | |
+
 ## Communicate
 I have linked below the zip file, which includes all of our individual parts and the final assembly for this project.
 
