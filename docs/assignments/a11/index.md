@@ -790,6 +790,21 @@ In case the ZIP file on the assembly exceeds the GitHub allowable space. Below i
 | 91290A222      | 16           | M5 x 0.8 mm Thread Screw                           | $0.13         | $2.08    | [McMaster-Carr](https://www.mcmaster.com/products/91290a222/) |
 |                 |              | **Total Cost**                                     |               | **$454.39** | |
 
+
+
+|                 |              |            |        |
+| --------------- | ------------ | ---------- | ------ |
+| **Design Cost** |              |            |        |
+| Person          | Hours Worked | Cost/Hour  | Cost   |
+| Sanjay Kashyap     | 15           | $35        | $525.00 |
+| Sebastian Mateus  | 8            | $35        | $280.00 |
+|                 |              | **Total Cost** | **$805.00** |
+
+**Total Project Cost: $1,259.39**
+
+- Material Cost: $454.39
+- Design Cost: $805.00
+
 ## Communicate
 I have linked below the zip file, which includes all of our individual parts and the final assembly for this project.
 
