@@ -336,11 +336,326 @@ I also decided to redesign the overall frame, include my parts in it, and ensure
 ## Analyze
 ### Analyze and Design a Frame
 ### T Slot Framing (Saeed Malik)
-### Top Frame FEA 40 Series (Sanjay Kashyap)
-### Vertical Components FEA 40 Series (Sanjay Kashyap)
+## Top Frame FEA (Sanjay Kashyap)
 
-## Decide
 
+### Setting Up the FEA
+
+I had to begin by updating the model for the top frame, but adding the "through all" holes through which the lead screw runs through.
+
+<div style="text-align: center;">
+  <img src="A12-1.png" alt="A12-1">
+</div>
+
+I then applied a fixture to each side of the top frame component.
+
+<div style="text-align: center;">
+  <img src="A12-2.png" alt="A12-2">
+</div>
+
+Next I applied a force around the holes and set the force parallel to the side and facing downwards. I selected both holes on the same feature and set the force equal to 2000 N.
+
+<div style="text-align: center;">
+  <img src="A12-3.png" alt="A12-3">
+</div>
+
+Then I added a reaction torque to the lead screw holes. I did it in one feature with a value of 12 Nm (6 Nm per hole) because the maximum possible output of each motor is 6 Nm.
+
+<div style="text-align: center;">
+  <img src="A12-4.png" alt="A12-4">
+</div>
+
+Next, I specified the material. I selected the aluminum allow 4032-T6 which is closes to the real material of the bar which is heavy 40 Series aluminum.
+
+The yield stress of the material is 315,000,000 N/m^2
+
+
+### Fine Mesh
+
+I created a high quality fine mesh (seen below). Below the picture of the mesh is a screenshot of the mesh details. A notable takeaway from the mesh details chart is that there are 1,110,851 elements in the mesh.
+
+<div style="text-align: center;">
+  <img src="A12-5.png" alt="A12-5">
+</div>
+
+<div style="text-align: center;">
+  <img src="A12-6.png" alt="A12-6">
+</div>
+
+
+The Next step is to run the study
+
+#### Stress
+
+The maximum stress for the fine mesh is 3.733 * 10 ^8 N/m^2
+
+<div style="text-align: center;">
+  <img src="A12-7.png" alt="A12-7">
+</div>
+
+#### Deflection
+
+The maximum deflection is 5.990 * 10^(-2) mm
+
+<div style="text-align: center;">
+  <img src="A12-8.png" alt="A12-8">
+</div>
+
+#### Factor of Safety
+
+The factor of safety (FS) is the yield strength of the material divided by the maximum stress. I did the factor of safety based on the stress because it was closer the limit than the deflection.
+
+The Factor of Safety is 0.844 whish is less than 1. According to this simulation the stress is too high.
+
+
+### Medium Mesh
+
+I created a high quality medium mesh (seen below). Below the picture of the mesh is a screenshot of the mesh details. A notable takeaway from the mesh details chart is that there are 771,392 elements in the mesh.
+
+<div style="text-align: center;">
+  <img src="A12-9.png" alt="A12-9">
+</div>
+
+<div style="text-align: center;">
+  <img src="A12-10.png" alt="A12-10">
+</div>
+
+#### Stress
+
+The maximum stress for the fine mesh is 3.817 * 10^8 N/m^2
+
+<div style="text-align: center;">
+  <img src="A12-11.png" alt="A12-11">
+</div>
+
+#### Deflection
+
+The maximum deflection is 5.989 * 10^(-2) mm
+
+<div style="text-align: center;">
+  <img src="A12-12.png" alt="A12-12">
+</div>
+
+#### Factor of Safety
+
+The factor of safety (FS) is the yield strength of the material divided by the maximum stress. I did the factor of safety based on the stress because it was closer the limit than the deflection.
+
+The Factor of Safety is 0.825 whish is less than 1. According to this simulation the stress is too high.
+
+### Mesh Convergence Test
+
+Below is the formula to calculate the percentage change in maximum stress, maximum resultant displacement, and minimum factor of safety.
+
+<p>
+  <strong>Change (%) = </strong>
+  <span style="display: inline-flex; flex-direction: column; text-align: center; vertical-align: middle;">
+    <span style="border-bottom: 1px solid black; padding: 4px 8px;">
+      |Higher Density's Result − Lower Density's Result|
+    </span>
+    <span style="padding: 4px 8px;">
+      |Higher Density's Result|
+    </span>
+  </span>
+  × 100
+</p>
+
+
+
+<h3 align="center"><u>Top Frame FEA</u></h3>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Measurements</th>
+    <th>Fine Density</th>
+    <th>Medium Density</th>
+    <th>Change %</th>
+  </tr>
+  <tr>
+    <td>Maximum von Mises Stress (N/m<sup>2</sup>)</td>
+    <td>3.733 &times; 10<sup>8</sup></td>
+    <td>3.817 &times; 10<sup>8</sup></td>
+    <td>2.25%</td>
+  </tr>
+  <tr>
+    <td>Maximum Resultant Displacement (mm)</td>
+    <td>5.990 &times; 10<sup>&minus;2</sup></td>
+    <td>5.989 &times; 10<sup>&minus;2</sup></td>
+    <td>0.017%</td>
+  </tr>
+  <tr>
+    <td>Factor of Safety (FS)</td>
+    <td>0.844</td>
+    <td>0.825</td>
+    <td>2.25%</td>
+  </tr>
+</table>
+
+The percentages are low, meaning the results are stabilized. I will continue with the results from the fine mesh because they are more accurate since there are more points of reference in the simulation.
+
+### Suggested Changes
+
+A change that I would suggest is adding triangular gusset reinforcements to the two upper interior corners of the assembly. These reinforcements would help transfer the forces from the top frame toward the vertical supports rather than requiring the top frame to carry the loads across its entire length. This should reduce bending stresses in the top frame. I would also expect the critical stress locations to potentially shift toward the gussets' attachment points or the connections between the top frame and vertical supports.
+
+## Vertical Frame FEA
+
+I originally wanted to open the original assembly and delete the extra components, but I needed to recreate it from scratch because the tope frame did not have any holes in it and used the same model as the vertical frame components. I then created a new assemble that only consisted of the vertical fram component and the top frame which transfers load onto the vertical frame components.
+
+<div style="text-align: center;">
+  <img src="A13-1.png" alt="A13-1">
+</div>
+
+### Setting up FEA
+
+I applied aluminum allow 4032-T6 as the material for each component of the simulation. Next, I applied a fixture to the bottom of the two vertical frames.
+
+<div style="text-align: center;">
+  <img src="A13-2.png" alt="A13-2">
+</div>
+
+Next I applied an force around the holes and set the force parallel to the side and facing downwards. I selected both holes on the same feature and set the force equal to 2000 N.
+
+<div style="text-align: center;">
+  <img src="A13-3.png" alt="A13-3">
+</div>
+
+Then I added a reaction torque to the lead screw holes. I did it in one feature with a value of 12 Nm (6 Nm per hole) because the maximum possible output of each motor is 6 Nm.
+
+<div style="text-align: center;">
+  <img src="A13-4.png" alt="A13-4">
+</div>
+
+### Fine Mesh
+
+I created a high quality fine mesh (seen below). Below the picture of the mesh is a screenshot of the mesh details. A notable takeaway from the mesh details chart is that there are 3,375,640 elements in the mesh.
+
+<div style="text-align: center;">
+  <img src="A13-5.png" alt="A13-5">
+</div>
+
+<div style="text-align: center;">
+  <img src="A13-6.png" alt="A13-6">
+</div>
+
+#### Stress
+
+The maximum stress for the fine mesh is1.641 * 10^11 N/m^2
+
+<div style="text-align: center;">
+  <img src="A13-7.png" alt="A13-7">
+</div>
+
+I attached a phot of the stress simulation from the side for an alternate view.
+
+<div style="text-align: center;">
+  <img src="A13-8.png" alt="A13-8">
+</div>
+
+#### Deflection
+
+The maximum deflection is 1.428 * 10^(-1) mm
+
+<div style="text-align: center;">
+  <img src="A13-9.png" alt="A13-9">
+</div>
+
+<div style="text-align: center;">
+  <img src="A13-10.png" alt="A13-10">
+</div>
+
+
+#### Factor of Safety
+
+The factor of safety (FS) is the yield strength of the material divided by the maximum stress. I did the factor of safety based on the stress because it was closer the limit than the deflection.
+
+The yield strength of the material is 315,000,000 N/m^2 which means the factor of safety is 0.0019. According to this simulation the stress is too high.
+
+### Medium Mesh
+
+I created a high quality fine mesh (seen below). Below the picture of the mesh is a screenshot of the mesh details. A notable takeaway from the mesh details chart is that there are 996,834 elements in the mesh.
+
+<div style="text-align: center;">
+  <img src="A13-11.png" alt="A13-11">
+</div>
+
+<div style="text-align: center;">
+  <img src="A13-12.png" alt="A13-12">
+</div>
+
+#### Stress
+
+The maximum stress for the fine mesh is 2.537 * 10^11 N/m^2
+
+<div style="text-align: center;">
+  <img src="A13-13.png" alt="A13-13">
+</div>
+
+#### Deflection
+
+The maximum deflection is 1.428 * 10^(-1) mm
+
+<div style="text-align: center;">
+  <img src="A13-14.png" alt="A13-14">
+</div>
+
+#### Factor of Safety
+
+The factor of safety (FS) is the yield strength of the material divided by the maximum stress. I did the factor of safety based on the stress because it was closer the limit than the deflection.
+
+The yield strength of the material is 315,000,000 N/m^2 which means the factor of safety is 0.0012. According to this simulation the stress is too high.
+
+
+### Mesh Convergence Test
+
+Below is the formula to calculate the percentage change in maximum stress, maximum resultant displacement, and minimum factor of safety.
+
+<p>
+  <strong>Change (%) = </strong>
+  <span style="display: inline-flex; flex-direction: column; text-align: center; vertical-align: middle;">
+    <span style="border-bottom: 1px solid black; padding: 4px 8px;">
+      |Higher Density's Result − Lower Density's Result|
+    </span>
+    <span style="padding: 4px 8px;">
+      |Higher Density's Result|
+    </span>
+  </span>
+  × 100
+</p>
+
+
+<h3 align="center"><u>Vertical Components FEA</u></h3>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Measurement</th>
+    <th>Fine Mesh</th>
+    <th>Medium Mesh</th>
+    <th>Percent Change</th>
+  </tr>
+  <tr>
+    <td>Von Mises Maximum Stress (N/m<sup>2</sup>)</td>
+    <td>1.641 &times; 10<sup>11</sup></td>
+    <td>2.537 &times; 10<sup>11</sup></td>
+    <td>54.60%</td>
+  </tr>
+  <tr>
+    <td>Maximum Deflection (mm)</td>
+    <td>1.428 &times; 10<sup>&minus;1</sup></td>
+    <td>1.417 &times; 10<sup>&minus;1</sup></td>
+    <td>0.77%</td>
+  </tr>
+  <tr>
+    <td>Factor of Safety</td>
+    <td>0.0019</td>
+    <td>0.0012</td>
+    <td>36.84%</td>
+  </tr>
+</table>
+
+The deflection is stabilized, so I will analyze the design based off of deflection. I will still utilize the visual of the stress concentration to decide as the concentration locations remain the same as well as I will be making recommendations with the knowledge that in both simulations the safety factor is far below 1.
+
+### Design Changes
+
+I believe it would be beneficial to add triangular gusset reinforcements to each corner of the frame. These could attach to the base of the assembly, particularly near the existing fixtures at the bottom of the vertical supports. I also think adding reinforcement plates around the middle of the top frame would be beneficial. Using a material with a higher yield strength could improve the load-bearing capacity in these areas and help distribute the applied forces. Finally, I would consider adding two diagonal support beams extending from the base to the top frame, with one beam on each side of the assembly. These supports would be positioned on the sides experiencing the greatest deflection and would help transfer some of the loading directly into the base rather than requiring the top frame to resist as much bending. I would expect these changes to reduce overall deflection and stress in the original frame, although the critical stress locations could shift toward the new reinforcement connections.
 ### Design Floating Bearing Mount (Saeed Malik)
 
 ### Bill of Materials and Labor Cost (Saeed Malik)
