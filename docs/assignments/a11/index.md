@@ -342,8 +342,16 @@ I decided to use these M5 fasteners to mount the motor assembly to the frame.
 ### Analyze and Design a Frame
 ### T Slot Framing (Saeed Malik)
 
+To analyze the affected twist by the motors to design a bracket to affix the vertical standoffs of the frame to the top of the frame. Also to select a connector. First up I just wrote the general knowns we knew like the load, factor of safety and the selected stepper motor. 
+
 <img width="795" height="975" alt="image" src="https://github.com/user-attachments/assets/d03de222-9592-4f6f-9860-80c9946829f8" />
+
+Next up I drew the FBD and calculated how many connectors we need initially. 
+
 <img width="805" height="972" alt="image" src="https://github.com/user-attachments/assets/355d620b-2a87-43ec-a577-442f25d6f48b" />
+
+Then I wrote the unknowns which were F1,F2,T total, bearing stress and bracket bending. Then I symbolically and then numerically solved for the unknown values. 
+
 <img width="797" height="916" alt="image" src="https://github.com/user-attachments/assets/aa976666-2204-4b16-a4e7-191eb87d574e" />
 <img width="757" height="872" alt="image" src="https://github.com/user-attachments/assets/4c385b82-0020-47b4-9c56-40c6902c73a9" />
 
@@ -811,5 +819,5 @@ I have linked below the zip file, which includes all of our individual parts and
 - <a href="./final a11.zip" download>Zip File</a>
 
 ### Lessons Learned
-
+Sanjay and Sebastian spent around 16 hours each on this assignment, Saeed spent around 9 hours, for a total of 41 hours. Each of us learned a lot, Sanjay learned how to properly align things to mate in assemblies for CAD and how to apply the mesh in certain areas. Sebastian learned how to design the bearing mount, especially the calculations that go along with that. Saeed learned how to properly design for the thickness of frame using stress equations. All in all, we all spent a lot of time on this assignment and in turn learned a lot from it. 
 
