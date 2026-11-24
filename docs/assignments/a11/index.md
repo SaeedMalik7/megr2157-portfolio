@@ -332,13 +332,21 @@ The above shows the full assembly of the motor (coupler and bracket included, bo
 I also decided to redesign the overall frame, include my parts in it, and ensure everything fits properly.
 
 
-![a11_14](a11_14.png)
+<img width="1918" height="804" alt="image" src="https://github.com/user-attachments/assets/26330f2a-c66d-45d7-b7cd-4a9de4da305e" />
 
 
 I decided to use these M5 fasteners to mount the motor assembly to the frame.
 
 
-SANJAY CODE: PARTS 5 AND 6
+## Analyze
+### Analyze and Design a Frame
+### T Slot Framing (Saeed Malik)
+
+<img width="795" height="975" alt="image" src="https://github.com/user-attachments/assets/d03de222-9592-4f6f-9860-80c9946829f8" />
+<img width="805" height="972" alt="image" src="https://github.com/user-attachments/assets/355d620b-2a87-43ec-a577-442f25d6f48b" />
+<img width="797" height="916" alt="image" src="https://github.com/user-attachments/assets/aa976666-2204-4b16-a4e7-191eb87d574e" />
+<img width="757" height="872" alt="image" src="https://github.com/user-attachments/assets/4c385b82-0020-47b4-9c56-40c6902c73a9" />
+
 
 
 ## Top Frame FEA (Sanjay Kashyap)
@@ -663,13 +671,8 @@ The deflection is stabilized, so I will analyze the design based off of deflecti
 I believe it would be beneficial to add triangular gusset reinforcements to each corner of the frame. These could attach to the base of the assembly, particularly near the existing fixtures at the bottom of the vertical supports. I also think adding reinforcement plates around the middle of the top frame would be beneficial. Using a material with a higher yield strength could improve the load-bearing capacity in these areas and help distribute the applied forces. Finally, I would consider adding two diagonal support beams extending from the base to the top frame, with one beam on each side of the assembly. These supports would be positioned on the sides experiencing the greatest deflection and would help transfer some of the loading directly into the base rather than requiring the top frame to resist as much bending. I would expect these changes to reduce overall deflection and stress in the original frame, although the critical stress locations could shift toward the new reinforcement connections.
 
 
-
-SEBASTIAN CODE (FOR PART 7):
-
-
 ## Design Floating Bearing Mount (Sebastian Mateus)
-![a11_ww1](a11_ww1.png)
-
+<img width="993" height="622" alt="image" src="https://github.com/user-attachments/assets/44b1519d-58dd-4760-a1b9-fdd3f187c61d" />
 
 The objective of this section is to design a floating bearing that will be fixed to the base aluminum member in such a way as to radially support the bottom portion of each 3/8"-8 STUB lead screw within a range of 0.315 to 15.75 RPM.
 
@@ -678,29 +681,29 @@ As shown above, the knowns and unknowns allow us to find the necessary parameter
 
 
 ### Solving for Surface Velocity:
-![a11_ww2](a11_ww2.png)
+<img width="940" height="256" alt="image" src="https://github.com/user-attachments/assets/96d6ef34-7b1c-4549-b4da-c0755fb96b2f" />
 
 
 As shown above, in order to solve for surface velocity, we need to incorporate the major diameter of the leadscrew as well as the worst-case scenario of the rotating speed that the leadscrew will endure. In doing so, we get a surface velocity of 1.5461 FPM.
 
 
 ### Solving for Pressure (P):
-![a11_ww3](a11_ww3.png)
-
+<img width="931" height="235" alt="image" src="https://github.com/user-attachments/assets/bcc0b688-af81-4615-b3b8-8d827de8292e" />
 
 As shown above, solving for the pressure (P) by using the converted force (F) that each leadscrew will get affected by, over the area of the leadscrew. Assuming the leadscrew geometry for simple calculations is a cylinder, we can use its major diameter parameter for its area. In doing so, we get a pressure of 2035.463 PSI.
 
 
 ### Solving for PV rating:
-![a11_ww4](a11_ww4.png)
+<img width="859" height="280" alt="image" src="https://github.com/user-attachments/assets/2a3db4bb-ca73-424d-90d3-d8db274a5b02" />
 
 
 As shown above, the PV rating is simply the product of the surface velocity and the pressure previously solved for. In doing so, we get a PV rating of 3147.029.
 
 
 ### Floating Bearing Material Selection:
-![a11_ww5](a11_ww5.png)
-![a11_16](a11_16.png)
+<img width="510" height="658" alt="image" src="https://github.com/user-attachments/assets/5f4b3608-5a87-4dd0-85ca-a9490702c6c4" />
+
+<img width="1030" height="567" alt="image" src="https://github.com/user-attachments/assets/08ae2b7b-7f53-4cf4-b69b-c9724a92e260" />
 
 
 Based on the parameters previously solved for, I chose porous bronze as the material for the bearing. My design of the mount consists of a square bearing bronze plate with a blind bearing pocket at its center and four mounting holes at the corners. Having porous bronze as the material means having a low-friction surface of the journal against a medium-carbon steel lead screw without any additional press-fit bushing. The counterbores hold the lead screw in place from one end, while the holes are for fixing the plate in the tensile tester frame.
@@ -710,13 +713,14 @@ Each piece of information from the machinery handbook is labeled with the page n
 
 
 ### Designing Bearing
-![a11_cad30](a11_cad30.png)
-![a11_cad29](a11_cad29.png)
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/49b9f900-d725-4019-bc20-d40ef66986e4" />
+
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/2b74860d-5ceb-4662-986d-d854f47df5de" />
 
 Here are the extruded holes as well as the counterbores.
 
 
-![a11_cad31](a11_cad31.png)
+<img width="1918" height="1009" alt="image" src="https://github.com/user-attachments/assets/738cf7fc-e75b-4723-afca-a6f8ae3cf538" />
 
 
 Here are the material properties used for the floating bearing mount.
@@ -724,11 +728,15 @@ Here are the material properties used for the floating bearing mount.
 
 
 ## Frame Assembly With Proper Mounting (Sebastian Mateus)
-![a11_12](a11_12.png)
-![a11_13](a11_13.png)
-![a11_14](a11_14.png)
-![a11_15](a11_15.png)
-![a11_cad](a11_cad.png)
+<img width="1426" height="661" alt="image" src="https://github.com/user-attachments/assets/5ce1775d-d40e-4a05-8d4e-bd9fe5c9ff86" />
+<img width="1425" height="649" alt="image" src="https://github.com/user-attachments/assets/f1985f52-a541-458c-8212-2d64aedd2cc4" />
+<img width="1918" height="804" alt="image" src="https://github.com/user-attachments/assets/efac70d6-dfee-4779-ad27-87b7f68d4ea7" />
+
+<img width="1918" height="804" alt="image" src="https://github.com/user-attachments/assets/3cb9e8ea-da49-40c6-8249-b381eb5c8328" />
+
+<img width="1918" height="813" alt="image" src="https://github.com/user-attachments/assets/1bccd828-3bec-479b-ae46-aa34357ab7ea" />
+
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/2546282f-4c9f-48cd-b256-d9c481e364f0" />
 
 
 As shown above, I used these combinations of fasteners and brackets. From the front view of the tensile tester, using info from the frame design section. I applied L brackets to all connections of the frame members. I also decided to have an additional member near the end of the leadscrew so the load cell can sit on top (I could not find the load cell STEP file). With the additional member, I decided to have inside corner brackets to support it internally. These specific models were cost-efficient and fit within the frame members. As for the fasteners, I used M8 socket screw heads for the L plates and M5 socket screw heads for the inside corner brackets. Both had reasonable depth and price.
@@ -745,12 +753,13 @@ As shown above, I used these combinations of fasteners and brackets. From the fr
 
 (4 Inside Corner Brackets)
 
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/756f969f-bc25-434f-b0fc-2c9ff8b8ea41" />
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/11fc3e1f-eed1-4a35-809c-ebd98c5f3c8a" />
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/86d38a9b-81ea-4530-8b3d-c258fa241537" />
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/31ee869b-50c4-406f-b41d-b890eba7e172" />
 
-![a11_cad32](a11_cad32.png)
-![a11_cad33](a11_cad33.png)
-![a11_cad34](a11_cad34.png)
-![a11_cad35](a11_cad35.png)
-![a11_cad36](a11_cad36.png)
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/22364e7e-c7f9-4ee6-b552-79fbd28f1d39" />
+
 
 
 Above shows all the supports as well as the fasteners used.
@@ -763,11 +772,18 @@ Above shows all the supports as well as the fasteners used.
 [Work pt 7](a11_7_work.pdf)
 
 
-The ZIP file on the assembly exceeds the GitHub allowable space. Below is the link to the Google Drive location. SolidWorks was being very buggy with the renaming files and GitHub not liking already set file names from SolidWorks.
+In case the ZIP file on the assembly exceeds the GitHub allowable space. Below is the link to the Google Drive location. SolidWorks was being very buggy with the renaming files and GitHub not liking already set file names from SolidWorks.
 
 
-[Link, need to download all of these](https://drive.google.com/drive/u/0/folders/1v-8aTL2HnMsP8tA3RaBzPIJepF_N-8xY?ths=true)
+[Link, will need to download all of these](https://drive.google.com/drive/u/0/folders/1v-8aTL2HnMsP8tA3RaBzPIJepF_N-8xY?ths=true)
+
+### Bill of Materials and Labor Cost (Saeed Malik)
+
+## Communicate
+I have linked below the zip file, which includes all of our individual parts and the final assembly for this project.
+
+- <a href="./final a11.zip" download>Zip File</a>
+
+### Lessons Learned
 
 
-## Communicate (Sebastian Mateus)
-Time: 16 hours
