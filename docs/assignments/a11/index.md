@@ -24,6 +24,9 @@ Key Constraints
 - Safety Factor: 4
 
   
+SEBASTIAN MATEUS (MOTOR SELECTION AND ATTACHMENTS) (PARTS 1-3) CODE:
+
+
 ## Objective (Sebastian Mateus)
 The objective for this stage is to choose an efficient motor and design the complementary drivetrain components (mounting plate and shaft coupling) that will rotate the 3/8-8 STUB screws at speeds from 1 to 50 mm/min. Considering a safety factor of 4 while computing the necessary design torque of 4.54 N·m per screw.
 
@@ -54,9 +57,9 @@ After solving for the torque each motor will produce, we need to translate that 
 
 
 ### NEMA Stepper Motor Selection:
-(a11_1)
-(a11_2)
-(a11_3)
+![a11_1](a11_1.png)
+![a11_2](a11_2.png)
+![a11_3](a11_3.png)
 
 
 Based on all the information we have solved for, we decided to select the NEMA 23 Stepper motor with a planetary gearbox with a ratio of 10:1 (23HS22-2804S - HG10). Having a stepper motor is essential in this context because regular ungeared motors do not have the ability to provide 4.52 N·m of torque or rotate seamlessly at ultra-low speeds of 0.315 RPM. Reducing the ratio to 10:1 gears, as shown in the figure above, the speed-torque curve shows
@@ -282,7 +285,7 @@ Starting with the coupler design, we set our outer diameter and extruded it to t
 ![a11_cad4](a11_cad4.png)
 
 
-As shown above, we create the leadscrew housing and place proper depth.
+As shown above, we create the leadscrew housing and set the proper depth.
 
 
 ![a11_cad5](a11_cad5.png)
@@ -329,20 +332,17 @@ The above shows the full assembly of the motor (coupler and bracket included, bo
 I also decided to redesign the overall frame, include my parts in it, and ensure everything fits properly.
 
 
-## Work (Sebastian Mateus)
-[Work](a11_work.pdf)
+![a11_14](a11_14.png)
 
 
-## Analyze
-### Analyze and Design a Frame
-### T Slot Framing (Saeed Malik)
+I decided to use these M5 fasteners to mount the motor assembly to the frame.
 
-<img width="795" height="975" alt="image" src="https://github.com/user-attachments/assets/d03de222-9592-4f6f-9860-80c9946829f8" />
-<img width="805" height="972" alt="image" src="https://github.com/user-attachments/assets/355d620b-2a87-43ec-a577-442f25d6f48b" />
-<img width="797" height="916" alt="image" src="https://github.com/user-attachments/assets/aa976666-2204-4b16-a4e7-191eb87d574e" />
-<img width="757" height="872" alt="image" src="https://github.com/user-attachments/assets/4c385b82-0020-47b4-9c56-40c6902c73a9" />
+
+SANJAY CODE: PARTS 5 AND 6
+
 
 ## Top Frame FEA (Sanjay Kashyap)
+
 
 ### Setting Up the FEA
 
@@ -662,7 +662,12 @@ The deflection is stabilized, so I will analyze the design based off of deflecti
 
 I believe it would be beneficial to add triangular gusset reinforcements to each corner of the frame. These could attach to the base of the assembly, particularly near the existing fixtures at the bottom of the vertical supports. I also think adding reinforcement plates around the middle of the top frame would be beneficial. Using a material with a higher yield strength could improve the load-bearing capacity in these areas and help distribute the applied forces. Finally, I would consider adding two diagonal support beams extending from the base to the top frame, with one beam on each side of the assembly. These supports would be positioned on the sides experiencing the greatest deflection and would help transfer some of the loading directly into the base rather than requiring the top frame to resist as much bending. I would expect these changes to reduce overall deflection and stress in the original frame, although the critical stress locations could shift toward the new reinforcement connections.
 
-### Design Floating Bearing Mount (Sebastian Mateus)
+
+
+SEBASTIAN CODE (FOR PART 7):
+
+
+## Design Floating Bearing Mount (Sebastian Mateus)
 ![a11_ww1](a11_ww1.png)
 
 
@@ -763,12 +768,6 @@ The ZIP file on the assembly exceeds the GitHub allowable space. Below is the li
 
 [Link, need to download all of these](https://drive.google.com/drive/u/0/folders/1v-8aTL2HnMsP8tA3RaBzPIJepF_N-8xY?ths=true)
 
-### Bill of Materials and Labor Cost (Saeed Malik)
 
-## Communicate
-
-I have linked below the zip file, which includes all of our individual parts and the final assembly for this project.
-
-- <a href="./final a11.zip" download>Zip File</a>
-
-### Lessons Learned
+## Communicate (Sebastian Mateus)
+Time: 16 hours
